@@ -14,4 +14,10 @@ Section 3: First Step In Java Programming
     5. Challenge_1
     6. Variable Declarations in JShell
     7. Operators
+
+17. Using Variables in Java Expressions: A Comprehensive Introduction
+    1. Challenge 1
+    2. Java code is case sensitive
+    3. Challenge 2
+    4. Summary: In this video:
     
