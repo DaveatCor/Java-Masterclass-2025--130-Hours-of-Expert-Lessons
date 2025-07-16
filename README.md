@@ -20,4 +20,15 @@ Section 3: First Step In Java Programming
     2. Java code is case sensitive
     3. Challenge 2
     4. Summary: In this video:
+
+18. Exploring Java Primitive Type: Integers Ranges and Wrapper Classes
+    1. Java Primitive's Types
+    2. Integer
+    3. Sample
+    4. Class
+    5. Wrapper Class
+    6. The Integer Wrapper Class
+    7. Overflow and Underflow in Java
+    8. When will you get an overflow? When will you get an error?
+    9. What does an underscore mean in a numeric literal?
     
