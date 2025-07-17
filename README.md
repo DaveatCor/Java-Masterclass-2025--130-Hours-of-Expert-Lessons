@@ -32,3 +32,11 @@ Section 3: First Step In Java Programming
     8. When will you get an overflow? When will you get an error?
     9. What does an underscore mean in a numeric literal?
     
+19. Understanding Byte, Short, And Long Data types and their width in Java
+    1. byte, short, int, long
+    2. The byte data type
+    3. byte and short overflow/underflow
+    4. Size of Primitve Types and Width
+    5. Using a numeric literal character suffix
+    6. How big is the difference between an int and a long?
+    7. When is L required?
