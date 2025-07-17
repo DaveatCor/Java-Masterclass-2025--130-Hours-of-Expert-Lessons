@@ -40,3 +40,9 @@ Section 3: First Step In Java Programming
     5. Using a numeric literal character suffix
     6. How big is the difference between an int and a long?
     7. When is L required?
+
+20. Understanding and Using Casting with Numeric Primitive Types in Java
+    1. Introduction
+    2. Rules for declaring multiple variables in one statement
+    3. Assigning expressions to variables with data types that don't match
+    4. What does it mean when Java defaults the data type to an int?
