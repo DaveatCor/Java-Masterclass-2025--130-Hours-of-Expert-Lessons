@@ -51,4 +51,13 @@ Section 3: First Step In Java Programming
     1. Primitve Type Challenge
     2. Using Parenttheses
     3. Recap
+
+22. Working with Float and Double: Precision in Floating Point Numbers
+    1. Floating-point Numbers
+    2. Floating-point Number Data Types
+    3. Single and Double Precision
+    4. Java's Scientific Notation
+    5. float and double and numeric literal suffixes
+    6. Challenge
+    7, Certification Exam Pointer
     
