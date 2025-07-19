@@ -46,3 +46,9 @@ Section 3: First Step In Java Programming
     2. Rules for declaring multiple variables in one statement
     3. Assigning expressions to variables with data types that don't match
     4. What does it mean when Java defaults the data type to an int?
+
+21. Primitive Types Challenge: Applying Your Knowledge of Integer Variables
+    1. Primitve Type Challenge
+    2. Using Parenttheses
+    3. Recap
+    
