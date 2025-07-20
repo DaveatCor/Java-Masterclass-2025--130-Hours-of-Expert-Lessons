@@ -66,3 +66,14 @@ Section 3: First Step In Java Programming
     2. Why is the double a better choice in most circumstances?
     3. Challenge 1
     4. Floating Point Number Percision Tips
+
+24. Exploring Character (char) and Boolean Primitive Data Types in Java
+    1. String Literal Example
+    2. Comparing the char to the String
+    3. Is there a good use for the char data type in today's computing world?
+    4. char Data Type
+    5. Unicode
+    6. Assigning values to a char variable
+    7. The char Challenge
+    8. Boolean Primitive Type
+    9. Why would you start your boolean variable name with the prefix 'is'?
