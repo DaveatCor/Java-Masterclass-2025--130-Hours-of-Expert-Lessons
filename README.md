@@ -77,3 +77,14 @@ Section 3: First Step In Java Programming
     7. The char Challenge
     8. Boolean Primitive Type
     9. Why would you start your boolean variable name with the prefix 'is'?
+25. Recap of Primitive Types and Introduction to the String Class in Java
+    1. Primitve Types Recap and the String Data Type
+    1.1 Java's 8 Primitve Data Types
+    2. Handling Data in Java
+    3. So What is a String?
+    4. Executing multiple lines of code in JShell
+    5. Executing Multiple Statements in JShell
+    6. String concatenation
+    7. Strings are Immutable
+    8. String vs StringBuilder
+    9. The String
