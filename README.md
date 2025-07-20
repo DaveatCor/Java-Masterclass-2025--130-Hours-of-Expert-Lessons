@@ -61,3 +61,8 @@ Section 3: First Step In Java Programming
     6. Challenge
     7, Certification Exam Pointer
     
+23. Understanding Floating-Point Precision: A Practical Challenge in Java
+    1. Default output for numeric data types
+    2. Why is the double a better choice in most circumstances?
+    3. Challenge 1
+    4. Floating Point Number Percision Tips
