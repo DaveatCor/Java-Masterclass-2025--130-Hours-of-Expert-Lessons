@@ -101,3 +101,11 @@ Section 3: First Step In Java Programming
     8. The + Operator on char
     9. The Remainder Operator
     10. Summary of Operators
+
+27. Simplifying Java Code: Using Abbreviated Operators for Concise Operations
+    1. Abbreviating Operators
+    2. Why do we want to use multiple statements in curly braces {}?
+    3. Incementing by One
+    4. Decementing by One
+    5. Compound Assignment Operator Challenge
+    6. The abbreviating operators
