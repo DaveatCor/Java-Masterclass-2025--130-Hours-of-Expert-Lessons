@@ -88,3 +88,16 @@ Section 3: First Step In Java Programming
     7. Strings are Immutable
     8. String vs StringBuilder
     9. The String
+
+26. Mastering Operators, Operands, and Expressions in Java Programming
+    1. Operators, Operands and Expressions
+    1.1 WHat are Operators?
+    2. What are Operands?;
+    3. What are Expressions?
+    4. How many operators are in this code?
+    5. What is a Comment?
+    6. What is the effort of this code on the value in previousResult?
+    7. The + Operator on character data types
+    8. The + Operator on char
+    9. The Remainder Operator
+    10. Summary of Operators
