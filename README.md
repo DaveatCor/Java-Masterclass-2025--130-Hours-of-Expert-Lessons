@@ -9,3 +9,11 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
     1. Access Modifiers
     2. Class Keyword
     3. What is a method
+
+35. Mastering Java's if-then Statement: Conditional Logic for Program Flow Control
+    1. if-then Statement in Java
+    2. Condition Logic
+    3. Assignment Operator (=)
+    4. Equality Operator (==)
+    5. Best Practice Rule - Always use a Code Block for If-then statemnt
+    6. The Code Block
