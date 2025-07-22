@@ -17,3 +17,5 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
     4. Equality Operator (==)
     5. Best Practice Rule - Always use a Code Block for If-then statemnt
     6. The Code Block
+
+36. Advanced Conditional Logic: Implementing the Logical AND Operator in Java Code [Code Practice]
