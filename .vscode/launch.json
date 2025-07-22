@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SixthClass",
+            "request": "launch",
+            "mainClass": "SixthClass",
+            "projectName": "Java-Masterclass-2025--130-Hours-of-Expert-Lessons_81ce39a6"
+        },
+        {
+            "type": "java",
             "name": "FifthClass",
             "request": "launch",
             "mainClass": "FifthClass",

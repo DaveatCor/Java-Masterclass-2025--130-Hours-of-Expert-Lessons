@@ -22,3 +22,7 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
 
 37. Java's Logical OR Operator: Enhancing Conditional Statements for Flexible Code
     1. The Logical AND operator and the Logical OR operator
+
+38. Assignment vs. Equality: Avoiding Common Java Operator Errors in IntelliJ
+    1. Difference Between the Assignment and Equal to Operators
+    2. The NOT Operator
