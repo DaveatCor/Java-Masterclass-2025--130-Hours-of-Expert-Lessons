@@ -29,3 +29,7 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
 
 39. Streamlining Code: Implementing Java's Ternary Operator for Concise Conditionals
     1. The Ternary Operator (Condition ?: Operator)
+    2. Ternary Operator ? :
+
+40. Java Operator Precedence: Mastering Expression Evaluation and Challenge
+    1. Challenge
