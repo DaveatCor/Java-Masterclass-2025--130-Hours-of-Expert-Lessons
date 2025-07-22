@@ -4,3 +4,8 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
 
 33. Creating Your First IntelliJ Project: "Hello World" Java Code Implementation
     1. Naming Items in Java
+
+34. Understanding IntelliJ Code Structure: Classes, Methods, and Basic Java Syntax
+    1. Access Modifiers
+    2. Class Keyword
+    3. What is a method
