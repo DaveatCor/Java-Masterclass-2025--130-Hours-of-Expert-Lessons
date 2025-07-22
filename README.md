@@ -19,3 +19,6 @@ Section 4: Transitioning from JShell to IDE: A Comprehensive IDE Guide.
     6. The Code Block
 
 36. Advanced Conditional Logic: Implementing the Logical AND Operator in Java Code [Code Practice]
+
+37. Java's Logical OR Operator: Enhancing Conditional Statements for Flexible Code
+    1. The Logical AND operator and the Logical OR operator
