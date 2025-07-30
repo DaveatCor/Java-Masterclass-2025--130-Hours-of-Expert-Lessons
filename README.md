@@ -16,3 +16,11 @@
 
 45. Practical If-Then-Else Challenge For Java Flow Control
     1. if then else Challenge
+
+46. Deep Overview Of Methods In Java For Reusable Code
+    1. The Method
+    2. The Benefits of the Method
+    3. Structure of the Method
+    4. Executing a Method as a Statemnet
+    5. Structure of the Method - Parameter or Arguments?
+    6. Executing a Method with parameters
