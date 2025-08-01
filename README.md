@@ -24,3 +24,7 @@
     4. Executing a Method as a Statemnet
     5. Structure of the Method - Parameter or Arguments?
     6. Executing a Method with parameters
+
+47. Enhancing Skills With Additional Java Method Techniques
+    1. Method structure with parameters and return type
+    2. The return statement
