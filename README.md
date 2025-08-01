@@ -28,3 +28,15 @@
 47. Enhancing Skills With Additional Java Method Techniques
     1. Method structure with parameters and return type
     2. The return statement
+
+48. Comprehensive Recap Of Java Methods
+    1. The Method
+    2. Is the method a statement or an expression?
+    3. What are functions and proceduures?
+    4. Declaring the Method
+    5. Declaring the Parameters
+    6. Declaring the Return Type
+    7. The Return Statement for methods that have a return type
+    8. The Method Signature
+    9. Default values for parameters
+    10. Revisting the main method
