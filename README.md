@@ -56,3 +56,6 @@
 
 53. Practical Method Overloading Challenge To Strengthen Java Expertise
     1. Overloaded Method Challenge Instrctions
+
+54. Comprehensive Seconds-And-Minutes Challenge For Time-Based Calculations
+    1. Seconds And minutes Challenge
