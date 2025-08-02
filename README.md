@@ -40,3 +40,6 @@
     8. The Method Signature
     9. Default values for parameters
     10. Revisting the main method
+
+49. Hands-On Java Method Challenge For Deeper Practice
+    1. Method Challenge

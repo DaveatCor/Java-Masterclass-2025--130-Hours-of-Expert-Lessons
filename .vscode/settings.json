@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "47._Enhancing_Skills_With_Additional_Java_Method_Techniques",
         "46._Deep_Overview_Of_Methods_In_Java_For_Reusable_Code",
         "44._Harnessing_Code_Blocks_And_The_If_Then_Else_Statement_In_Java",
         "43._Mastering_Java_Statements,_Whitespace,_And_CodeOrganization",
         "42._Exploring_Java_Keywords_And_Understanding_Expressions",
-        "47._Enhancing_Skills_With_Additional_Java_Method_Techniques"
+        "49._Hands_On_Java_Method_Challenge_For_Deeper_Practice"
     ]
 }
