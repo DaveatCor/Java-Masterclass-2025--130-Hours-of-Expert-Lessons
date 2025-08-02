@@ -43,3 +43,13 @@
 
 49. Hands-On Java Method Challenge For Deeper Practice
     1. Method Challenge
+
+50. Comparing And Reviewing Code In IntelliJ For Better Development
+
+51. Introduction To Java Coding Exercises For Skill Development
+
+52. Delving Into Method Overloading In Java
+    1. Method Overloading
+    2. More on Method Signatures
+    3. Valid Overloaded Methods
+    4. Invalid Overloaded Methods
