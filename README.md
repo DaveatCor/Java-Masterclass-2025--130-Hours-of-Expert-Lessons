@@ -59,3 +59,6 @@
 
 54. Comprehensive Seconds-And-Minutes Challenge For Time-Based Calculations
     1. Seconds And minutes Challenge
+
+55. Detailed Bonus Challenge Solution And Key Insights
+    1. Seconds And Minutes Challenge Bonus:
