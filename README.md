@@ -24,3 +24,22 @@
 38. Assignment vs. Equality: Avoiding Common Java Operator Errors in IntelliJ
 39. Streamlining Code: Implementing Java's Ternary Operator for Concise Conditionals
 40. Java Operator Precedence: Mastering Expression Evaluation and Challenge
+
+## Section 5: Mastering Java Expressions, Statements, Code Blocks, And Method Overloading
+
+41. Introduction To The Fundamentals Of Java Workflow
+
+42. Exploring Java Keywords And Understanding Expressions
+43. Mastering Java Statements, Whitespace, And Code Organization
+44. Harnessing Code Blocks And The If-Then-Else Statement In Java
+45. Practical If-Then-Else Challenge For Java Flow Control
+46. Deep Overview Of Methods In Java For Reusable Code
+47. Enhancing Skills With Additional Java Method Techniques
+48. Comprehensive Recap Of Java Methods
+49. Hands-On Java Method Challenge For Deeper Practice
+50. Comparing And Reviewing Code In IntelliJ For Better Development
+51. Introduction To Java Coding Exercises For Skill Development [Exercise]
+52. Delving Into Method Overloading In Java
+53. Practical Method Overloading Challenge To Strengthen Java Expertise
+54. Comprehensive Seconds-And-Minutes Challenge For Time-Based Calculations
+55. Detailed Bonus Challenge Solution And Key Insights [Exercise]
