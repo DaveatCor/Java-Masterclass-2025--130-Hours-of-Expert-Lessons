@@ -5,3 +5,7 @@
     2. Switch Value Types
     3. Fall Through in switch statement
 
+58. Delving Deeper Into Advanced Switch Statement Features
+    1. Traditional Switch Statement vs Enhanced Switch Statement
+    2. Yield Keyword
+    3. When to use yield in a switch
