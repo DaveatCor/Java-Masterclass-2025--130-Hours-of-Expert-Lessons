@@ -12,3 +12,6 @@
 
 59. Traditional Switch Statement Challenge And Practical Exercises
     1. Switch Challenge (Traditional)
+
+60. Embracing Switch Expressions With A Hands-On Coding Challenge
+    1. Switch Challenge - Day of the Week Challenge (Enhanced)
