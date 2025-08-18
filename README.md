@@ -9,3 +9,6 @@
     1. Traditional Switch Statement vs Enhanced Switch Statement
     2. Yield Keyword
     3. When to use yield in a switch
+
+59. Traditional Switch Statement Challenge And Practical Exercises
+    1. Switch Challenge (Traditional)
