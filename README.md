@@ -25,3 +25,7 @@
 62. Comprehensive for Loop Challenge To Strengthen Iteration Skills
     1. Prime Number Challenge
     2. The For Loop Challenge
+
+63. Sum 3 And 5 Challenge With Vscode Debugger Insights
+    1. Sum 3 and 5 Challenge
+    2. Debugging Tool

@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main58",
+            "request": "launch",
+            "mainClass": "Main58",
+            "projectName": "Java-Masterclass-2025--130-Hours-of-Expert-Lessons_81ce39a6"
+        },
+        {
+            "type": "java",
+            "name": "Sum3And5Challenge",
+            "request": "launch",
+            "mainClass": "Sum3And5Challenge",
+            "projectName": "Java-Masterclass-2025--130-Hours-of-Expert-Lessons_81ce39a6"
+        }
+    ]
+}
