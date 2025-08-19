@@ -15,3 +15,9 @@
 
 60. Embracing Switch Expressions With A Hands-On Coding Challenge
     1. Switch Challenge - Day of the Week Challenge (Enhanced)
+
+61. Mastering The for Statement For Repetitive Task Automation
+    1. Java supports three statement for looping
+    2. The for statement
+    3. Mini Challenge [Challenge]
+    4. The break statement
