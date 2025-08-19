@@ -21,3 +21,7 @@
     2. The for statement
     3. Mini Challenge [Challenge]
     4. The break statement
+
+62. Comprehensive for Loop Challenge To Strengthen Iteration Skills
+    1. Prime Number Challenge
+    2. The For Loop Challenge
