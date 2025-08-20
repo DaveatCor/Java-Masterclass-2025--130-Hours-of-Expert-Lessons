@@ -29,3 +29,6 @@
 63. Sum 3 And 5 Challenge With Vscode Debugger Insights
     1. Sum 3 and 5 Challenge
     2. Debugging Tool
+
+64. for Loop Recap And Key Takeaways For Iteration In Java
+    1. The for Statement Recap
