@@ -39,3 +39,7 @@
     3. The for statement and the while statement
     4. The while statement and do while statement
     5. continue
+
+66. Practical while Loop Exercises And Challenges
+    1. The while loop challenge - Step 1
+    2. The while loop challenge - Step 2
