@@ -49,3 +49,9 @@
     2. Digit Sum Challenge Process, Step 1
     3. Digit Sum Challenge Process, Step 2 and 3
     4. Digit Sum Challenge Process, Final Step
+
+68. Revisiting The while And do-while Loops: A Complete Recap
+    1. The while Statement Recap
+    2. The while and the do while
+    3. Examine loop conditions carefully
+    4. Continue and Break
