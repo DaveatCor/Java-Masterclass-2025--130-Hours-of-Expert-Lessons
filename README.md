@@ -43,3 +43,9 @@
 66. Practical while Loop Exercises And Challenges
     1. The while loop challenge - Step 1
     2. The while loop challenge - Step 2
+
+67. Digit Sum Challenge And Further Looping Techniques
+    1. Digit Sum Challenge
+    2. Digit Sum Challenge Process, Step 1
+    3. Digit Sum Challenge Process, Step 2 and 3
+    4. Digit Sum Challenge Process, Final Step
