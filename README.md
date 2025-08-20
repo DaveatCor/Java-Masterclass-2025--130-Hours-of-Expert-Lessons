@@ -32,3 +32,10 @@
 
 64. for Loop Recap And Key Takeaways For Iteration In Java
     1. The for Statement Recap
+
+65. The while And do-while Statements For Conditional Looping
+    1. Other ways to Loop
+    2. Java has two types of while loops
+    3. The for statement and the while statement
+    4. The while statement and do while statement
+    5. continue
