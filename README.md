@@ -55,3 +55,13 @@
     2. The while and the do while
     3. Examine loop conditions carefully
     4. Continue and Break
+
+69. Exploring Local Variables And Scope In Java Blocks
+    1. Local Variables and Scope
+    2. Local Variables
+    3. Scope
+    4. When are Local Variables in Scope?
+    5. When are Local Variables out of Scope?
+    6. Scope Best Practices
+    7. Local Variables and the For Statement 
+    8. Declaring variable in a switch statement block
