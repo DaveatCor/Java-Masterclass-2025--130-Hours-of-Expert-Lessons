@@ -65,3 +65,13 @@
     6. Scope Best Practices
     7. Local Variables and the For Statement 
     8. Declaring variable in a switch statement block
+
+70. Understanding Classes, Objects, And Static Versus Instance Members
+    1.The class, the object, static & instance fields and methods
+    2. A class
+    3. The class is a template for creating objects
+    4. An object
+    5. A class and objects
+    6. Declaring and instantiating a new object from a Class
+    7. static and instance fields
+    8. static and instance methods
