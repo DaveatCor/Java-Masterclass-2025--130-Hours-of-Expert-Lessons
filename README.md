@@ -91,3 +91,6 @@
     5. new keyword
     6. Instantiating Scanner
     7. Using the import statement
+
+73. Reading Input With The Scanner For Seamless User Interaction
+    1. ReadingUserInput Improvement
