@@ -75,3 +75,19 @@
     6. Declaring and instantiating a new object from a Class
     7. static and instance fields
     8. static and instance methods
+
+71. Parsing Values And Reading Console Input – system.console() Overview
+    1. Parsing Values and Reading Input using System.console()
+    2. Summary of Operators
+    3. Wrapper methods to parse strings to numeric values
+    4. Reading data from the console
+    5. Read Input Practice
+
+72. Handling Exceptions And Introducing The Scanner Class
+    1. What's an exception?
+    2. Catching an exception
+    3. The try statement
+    4. The Scanner class
+    5. new keyword
+    6. Instantiating Scanner
+    7. Using the import statement

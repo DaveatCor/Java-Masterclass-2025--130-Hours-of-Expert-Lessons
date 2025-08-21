@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReadingUserInput72",
+            "request": "launch",
+            "mainClass": "ReadingUserInput72",
+            "projectName": "Java-Masterclass-2025--130-Hours-of-Expert-Lessons_81ce39a6"
+        },
+        {
+            "type": "java",
+            "name": "ReadingUserInput",
+            "request": "launch",
+            "mainClass": "ReadingUserInput",
+            "projectName": "Java-Masterclass-2025--130-Hours-of-Expert-Lessons_81ce39a6"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
