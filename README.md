@@ -94,3 +94,6 @@
 
 73. Reading Input With The Scanner For Seamless User Interaction
     1. ReadingUserInput Improvement
+
+74. Hands-On Reading User Input Challenge For Practical Mastery
+    1. Challenge
