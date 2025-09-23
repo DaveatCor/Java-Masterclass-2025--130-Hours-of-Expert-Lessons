@@ -97,3 +97,6 @@
 
 74. Hands-On Reading User Input Challenge For Practical Mastery
     1. Challenge
+
+75. Identifying Min And Max Values – A Final Control Flow Challenge
+    1. Min and Max Challenge
