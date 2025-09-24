@@ -100,3 +100,9 @@
 
 75. Identifying Min And Max Values – A Final Control Flow Challenge
     1. Min and Max Challenge
+
+## Code Exercise
+    Chapter 60 = 2
+    Chapter 64 = 1
+    Chapter 70 = 12
+    Chapter 75 = 2

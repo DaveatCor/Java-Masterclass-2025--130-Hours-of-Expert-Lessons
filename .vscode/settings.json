@@ -1,9 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Code_Excercise",
+        "73._Reading_Input_With_The_Scanner_For_Seamless_User_Interaction",
         "72._Handling_Exceptions_And_Introducing_The_Scanner_Class",
         "71._Parsing_Values_And_Reading_Console_Input_system.console()_Overview",
         "63._Sum_3_And_5_Challenge_With_IntelliJ_Debugger_Insights",
         "58._Delving_Deeper_Into_Advanced_Switch_Statement_Features",
-        "73._Reading_Input_With_The_Scanner_For_Seamless_User_Interaction"
+        "74._Hands_On_Reading_User_Input_Challenge_For_Practical_Mastery"
     ]
 }
