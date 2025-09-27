@@ -31,3 +31,6 @@
 
 79. Setters, Object Creation, and OOP Practice
     1. this keyword
+
+80. Classes Challenge: Building a Bank Account
+    1. Class and OOP Challenge
