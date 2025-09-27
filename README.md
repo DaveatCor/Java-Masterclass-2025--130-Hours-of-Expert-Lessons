@@ -23,3 +23,8 @@
     9. Organizing classes
     10. Access modifiers for the class
     11. Encapsulation
+
+78. Getters, Encapsulation, and Object Access
+    1. What is null?
+    2. Default values for field on classes
+    3. What are getters and setters? Why should we use them?
