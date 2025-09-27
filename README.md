@@ -28,3 +28,6 @@
     1. What is null?
     2. Default values for field on classes
     3. What are getters and setters? Why should we use them?
+
+79. Setters, Object Creation, and OOP Practice
+    1. this keyword
