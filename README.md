@@ -45,3 +45,8 @@
 
 83. Constructor Challenge: Building Customer Data
     1. Constructor Challenge Exercise
+
+84. Understanding References, Objects, and Instances
+    1. Object vs Instance vs Class
+    2. Reference vs Object vs Instance vs Class
+    3. The reference vs The object
