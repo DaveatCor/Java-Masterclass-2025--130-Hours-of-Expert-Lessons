@@ -65,3 +65,10 @@
     2. The Entity - The Student Table
     3. Annoation
     4. Overriden Methods
+
+88. Java Records: The Modern POJO Approach
+    1. The Record type
+    2. Implicit or Generated Code that Java provides
+    3. Why have an immutable record?
+    4. POJO vs. Record
+    5. Java's new type, the record

@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "88_Java_Records_The_Modern_POJO_Approach",
         "87_POJOs_Plain_Old_Java_Objects",
         "83_Constructor_Challenge_Building_Customer_Data",
         "_Overloading_and_Chaining",
