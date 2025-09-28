@@ -18,6 +18,9 @@ public class RecordProject {
 
         Student pojoStudent = new Student("S923006", "Ann", "05/11/1985", "Java Masterclass");
         LPAStudent recordStudent = new LPAStudent("S923007", "Bill", "05/11/1985", "Java Masterclass");
+
+        pojoStudent.setClassList(null);
+
         System.err.println(pojoStudent);
         System.err.println(recordStudent);
     }

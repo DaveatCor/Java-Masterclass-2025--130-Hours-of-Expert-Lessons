@@ -72,3 +72,9 @@
     3. Why have an immutable record?
     4. POJO vs. Record
     5. Java's new type, the record
+
+89. Inheritance - Part 1: The Basics
+    1. Inheritance
+    2. The Animal class
+    3. Class Model for Animal and Dog
+    4. super()
