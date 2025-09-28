@@ -54,3 +54,8 @@
 85. Static vs. Instance Variables in Java
     1. Static Variables
     2. Instance Variables
+
+86. Static vs. Instance Methods Explained
+    1. Static Methods
+    2. Instance Methods
+    3. Static or Instance Method
