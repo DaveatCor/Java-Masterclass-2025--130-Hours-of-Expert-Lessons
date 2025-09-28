@@ -59,3 +59,9 @@
     1. Static Methods
     2. Instance Methods
     3. Static or Instance Method
+
+87. POJOs: Plain Old Java Objects
+    1. Plain Old Java Object
+    2. The Entity - The Student Table
+    3. Annoation
+    4. Overriden Methods

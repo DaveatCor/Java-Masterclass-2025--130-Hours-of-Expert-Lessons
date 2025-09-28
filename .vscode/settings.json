@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "87_POJOs_Plain_Old_Java_Objects",
         "83_Constructor_Challenge_Building_Customer_Data",
         "_Overloading_and_Chaining",
         "82_Constructors_Part_2_Overloading_and_Chaining",
