@@ -50,3 +50,7 @@
     1. Object vs Instance vs Class
     2. Reference vs Object vs Instance vs Class
     3. The reference vs The object
+
+85. Static vs. Instance Variables in Java
+    1. Static Variables
+    2. Instance Variables
