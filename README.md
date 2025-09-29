@@ -78,3 +78,8 @@
     2. The Animal class
     3. Class Model for Animal and Dog
     4. super()
+
+90. Inheritance - Part 2: Extending Animal Class
+    1. Code Re-use
+    2. Overriding a method
+    3. Overridden method

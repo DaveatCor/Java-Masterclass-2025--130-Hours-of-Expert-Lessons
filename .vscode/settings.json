@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "90_Inheritance_Part_2_Extending_Animal_Class",
         "89_Inheritance_Part_1_The_Basics",
         "88_Java_Records_The_Modern_POJO_Approach",
         "87_POJOs_Plain_Old_Java_Objects",
