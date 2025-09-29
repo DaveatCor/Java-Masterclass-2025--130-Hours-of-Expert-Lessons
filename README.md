@@ -83,3 +83,8 @@
     1. Code Re-use
     2. Overriding a method
     3. Overridden method
+
+91. Inheritance - Part 3: Unique Dog & Fish Classes
+    1. Class Diagram for Dog and Animal
+    2. Class Diagram with additional class, Fish
+    3. Polymorphism
