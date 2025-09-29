@@ -88,3 +88,7 @@
     1. Class Diagram for Dog and Animal
     2. Class Diagram with additional class, Fish
     3. Polymorphism
+
+92. Unveiling java.lang.Object in Java
+    1. java.lang.Object
+    2. Class Diagram for Student and PrimarySchoolStudent
