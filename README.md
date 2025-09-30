@@ -101,3 +101,12 @@
     2. SalariedEmployee
     3. HourlyEmployee class
     4. Making the call
+
+95. Using this and super for Constructors
+    1. this vs super
+    2. Keyword this
+    3. Keyword super
+    4. this() vs super() calls
+    5. Constructors Bad Example
+    6. Constructors Good Example
+    7. Comparing Both Examples
