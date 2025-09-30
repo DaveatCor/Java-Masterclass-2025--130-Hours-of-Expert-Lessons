@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "93_Inheritance_Challenge_Designing_a_Worker_Hierarchy",
         "92_Unveiling_java_lang_Object_in_Java",
         "91_Inheritance_Part_3_Unique_Dog_&_Fish_Classes",
         "90_Inheritance_Part_2_Extending_Animal_Class",
@@ -15,7 +16,7 @@
         "79._Setters,_Object_Creation,_and_OOP_Practice",
         "78._Getters_Encapsulation,_and_Object_Access",
         "77._Deep_Dive_into_Classes_and_Objects",
-        ""
+        "93_Inheritance_Challenge_Designing_a_Worker_Hierarchy",
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

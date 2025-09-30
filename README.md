@@ -92,3 +92,6 @@
 92. Unveiling java.lang.Object in Java
     1. java.lang.Object
     2. Class Diagram for Student and PrimarySchoolStudent
+
+93. Inheritance Challenge - Designing a Worker Hierarchy
+    1. Inheritance Challenge [employee, worker]
