@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "94_Inheritance_Challenge_Part_2_Specialized_Employees",
         "93_Inheritance_Challenge_Designing_a_Worker_Hierarchy",
         "92_Unveiling_java_lang_Object_in_Java",
         "91_Inheritance_Part_3_Unique_Dog_&_Fish_Classes",

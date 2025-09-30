@@ -95,3 +95,9 @@
 
 93. Inheritance Challenge - Designing a Worker Hierarchy
     1. Inheritance Challenge [employee, worker]
+
+94. Inheritance Challenge Part 2: Specialized Employees
+    1. Inheritance Challenge, Continued
+    2. SalariedEmployee
+    3. HourlyEmployee class
+    4. Making the call
