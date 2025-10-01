@@ -123,3 +123,9 @@
     1. What's a Text Block?
     2. Some Common Escape Sequence
     3. Format Specifiers
+
+98. Revisiting the String: Methods and Best Practices
+    1. The String
+    2. The Purpose of String methods
+    3. String Inspection Methods
+    4. String Comparison Methods

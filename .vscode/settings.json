@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "97_Text_Blocks_&_Advanced_Output_Formatting",
         "94_Inheritance_Challenge_Part_2_Specialized_Employees",
         "93_Inheritance_Challenge_Designing_a_Worker_Hierarchy",
         "92_Unveiling_java_lang_Object_in_Java",
@@ -15,7 +16,7 @@
         "79._Setters,_Object_Creation,_and_OOP_Practice",
         "78._Getters_Encapsulation,_and_Object_Access",
         "77._Deep_Dive_into_Classes_and_Objects",
-        "97_Text_Blocks_&_Advanced_Output_Formatting"
+        "98_Revisiting_the_String_Methods_and_Best_Practices"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
