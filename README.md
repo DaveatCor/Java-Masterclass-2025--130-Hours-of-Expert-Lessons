@@ -132,4 +132,11 @@
 
 99. Mastering String Manipulation Methods
     1. String comparision Methods
-    2. 
+
+100. The StringBuilder: Efficient Mutable Strings
+    1. String vs StringBuilder
+    2. Creating Instances
+    3. String
+    4. StringBuilder
+    5. String methods vs. StringBuilder methods
+    6. Some methods unique to the StringBuilder class
