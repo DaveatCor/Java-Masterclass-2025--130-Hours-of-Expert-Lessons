@@ -129,3 +129,7 @@
     2. The Purpose of String methods
     3. String Inspection Methods
     4. String Comparison Methods
+
+99. Mastering String Manipulation Methods
+    1. String comparision Methods
+    2. 
