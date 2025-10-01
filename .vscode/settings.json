@@ -9,15 +9,13 @@
         "88_Java_Records_The_Modern_POJO_Approach",
         "87_POJOs_Plain_Old_Java_Objects",
         "83_Constructor_Challenge_Building_Customer_Data",
-        "_Overloading_and_Chaining",
         "82_Constructors_Part_2_Overloading_and_Chaining",
-        "82._Constructors_Part_2:_Overloading_and_Chaining",
         "81._Constructors_Part_1:_Object_Initialization",
         "80._Classes_Challenge_Building_a_Bank_Account",
         "79._Setters,_Object_Creation,_and_OOP_Practice",
         "78._Getters_Encapsulation,_and_Object_Access",
         "77._Deep_Dive_into_Classes_and_Objects",
-        "93_Inheritance_Challenge_Designing_a_Worker_Hierarchy",
+        "97_Text_Blocks_&_Advanced_Output_Formatting"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
