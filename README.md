@@ -6,3 +6,12 @@
     3. Inheritance vs. Composition
     4. The parts
     5. PersonalComputer
+
+103. Assembling a Personal Computer: Real-World Composition and Object Management
+    1. Composition
+    2. Composition is creating a whole from different parts.
+    3. Use Compsition or Inheritance or Both?
+    4. Why is Composition preferred over Inhertance in many designs?
+    5. Why is Inheritance less flexible?
+    6. Adding a Digital Product
+    7. Revised Class Diagram
