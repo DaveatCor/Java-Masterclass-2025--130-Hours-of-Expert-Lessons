@@ -15,3 +15,6 @@
     5. Why is Inheritance less flexible?
     6. Adding a Digital Product
     7. Revised Class Diagram
+
+104. Hands-On Smart Kitchen Challenge: Modeling IoT Appliances with Composition
+    1. The Composition Challenge
