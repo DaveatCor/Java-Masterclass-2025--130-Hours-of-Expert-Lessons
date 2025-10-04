@@ -36,3 +36,7 @@
 
 107. Encapsulation Challenge: Building a Printer with Toner and Duplex Functionality
     1. Encapsulation Challenge
+    
+108. Polymorphism Foundations, Part 1: Introducing Movie Subclasses for Runtime Varia
+    1. Polymorphsim
+    2. Movie Genres Code Practices
