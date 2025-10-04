@@ -27,3 +27,9 @@
     5. Problem one
     6. Problem Two
     7. Problem Three
+
+106. Encapsulation Deep Dive, Part 2: Enhancing Classes and Securing Data
+    1. The problem when classes aren't properly encalsulated
+    2. Benefits of Encapsulation
+    3. Staying in Control
+    4. Encapsulation Principles
