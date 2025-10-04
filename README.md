@@ -33,3 +33,6 @@
     2. Benefits of Encapsulation
     3. Staying in Control
     4. Encapsulation Principles
+
+107. Encapsulation Challenge: Building a Printer with Toner and Duplex Functionality
+    1. Encapsulation Challenge
