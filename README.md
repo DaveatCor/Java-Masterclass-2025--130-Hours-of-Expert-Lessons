@@ -40,3 +40,12 @@
 108. Polymorphism Foundations, Part 1: Introducing Movie Subclasses for Runtime Varia
     1. Polymorphsim
     2. Movie Genres Code Practices
+
+109. Polymorphism in Practice, Part 2: Factory Methods, Runtime Types, and Movie Scen
+    1. Imports
+    2. Polymorphism in action
+
+110. Advanced Casting and var Usage: Navigating Compile-Time vs. Runtime Types in Java
+    1. What is var?
+    2. Local Variable Type Infererence (LVTI)
+    3. Run Time vs. Compile Time Typing
