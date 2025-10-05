@@ -49,3 +49,8 @@
     1. What is var?
     2. Local Variable Type Infererence (LVTI)
     3. Run Time vs. Compile Time Typing
+
+111. Runtime Type Inspection: Mastering instanceof and Pattern Matching in Java
+    1. Evaluating what the runtime type is
+    2. instanceof operator
+    3. Pattern Matching for the instanceof Operator
