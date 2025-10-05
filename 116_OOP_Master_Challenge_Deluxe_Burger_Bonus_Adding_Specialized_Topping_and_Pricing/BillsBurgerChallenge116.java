@@ -1,4 +1,4 @@
-public class BillsBurgerChallenge115 {
+public class BillsBurgerChallenge116 {
     public static void main(String[] args) {
         // Item115 coke = new Item115("drink", "coke", 1.50);
         // coke.printItem();
@@ -17,8 +17,15 @@ public class BillsBurgerChallenge115 {
         // regularMeal.setDrinkSize("LARGE");
         // regularMeal.printItemizedList();
 
-        MealOrder116 secondMeal = new MealOrder116("turkey", "7-up", "chili");
-        secondMeal.addBurgerToppings("LETTUCE", "CHEESE", "MAYO");
-        secondMeal.printItemizedList();
+        // MealOrder116 secondMeal = new MealOrder116("turkey", "7-up", "chili");
+        // secondMeal.addBurgerToppings("LETTUCE", "CHEESE", "MAYO");
+        // secondMeal.printItemizedList();
+
+        MealOrder116 deluxeMeal = new MealOrder116("deluxe", "7-up", "chilli");
+        deluxeMeal.addBurgerToppings("AVOCADO", "BACON", "LETTUCE", "CHEESE", "MAYO");
+
+        deluxeMeal.setDrinkSize("SMALL");
+        deluxeMeal.printItemizedList();
+
     }
 }

@@ -1,9 +1,9 @@
-public class Burger115 extends Item {
+public class Burger116 extends Item116 {
     private Item116 extra1;
     private Item116 extra2;
     private Item116 extra3;
 
-    public Burger115(String name, double price) {
+    public Burger116(String name, double price) {
         super("Burger", name, price);
     }
 

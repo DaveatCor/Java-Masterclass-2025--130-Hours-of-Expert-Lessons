@@ -68,3 +68,6 @@
 
 115. OOP Master Challenge, Part 2: Implementing Meal Orders and Pricing Strategies
     1. Continued + MealOrder Challenge
+
+116. OOP Master Challenge: Deluxe Burger Bonus Adding Specialized Topping and Pricing.
+    1. Bills Burger Challenge with the Bonus - the DeluxeBurger
