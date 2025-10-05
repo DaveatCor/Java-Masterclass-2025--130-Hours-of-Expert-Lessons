@@ -17,3 +17,6 @@
     3. The Enhanced For Loop, the For Each Loop
     4. java.util.Arrays
     5. Printing elements in an array using Arrays.toString()
+
+121. Sorting, Filling, and Copying: Mastering the java.util.Arrays Helper Class
+    1. Why use arrays?
