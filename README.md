@@ -60,3 +60,8 @@
 
 113. Polymorphism Challenge, Part 2: Finalizing Car Inheritance and Overridden Method
     1. The Challendge, the Car Class Diagram [continued]
+
+114. OOP Master Challenge, Part 1: Crafting a Burger Restaurant App with OOP Concepts
+    1. Welcome to the Object-Oriented Programming Master Challenge!
+    2. Bill's Burger Challenge
+    3. Initial Design Considerations
