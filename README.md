@@ -71,3 +71,17 @@
 
 116. OOP Master Challenge: Deluxe Burger Bonus Adding Specialized Topping and Pricing.
     1. Bills Burger Challenge with the Bonus - the DeluxeBurger
+
+117. Project Structure and Modular Design: Harnessing Packages and Import Statements
+    1. Orgainizing Java Classes
+    2. package
+    3. Java packages
+    4. Using classes from packages other than java.lang - the import statement
+    5. Multiple import statement
+    6. Using import statements with wildcards
+    7. What is the purpose of packages?
+    8. What would a package name look like?
+    9. using the package statement
+    10. The Fully Qualified Class Name (FQCN)
+    11. The Fully Qualified Class Name vs the import statement
+    12. Using the package statement
