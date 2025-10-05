@@ -40,3 +40,8 @@
 
 125. Reference vs. Value Types: Understanding Array Memory and Method Calls
     1. Reference Types vs. Value Types
+
+126. Embracing varargs: Flexible Method Parameters and Array Conversions
+    1. Arrays as method parameters
+    2. Variable argument (varargs)
+    3. When can we use variable arguments (varargs)?
