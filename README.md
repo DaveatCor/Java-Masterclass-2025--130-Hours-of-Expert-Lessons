@@ -26,3 +26,6 @@
     2. Searching Sequentially
     3. Using intervals to Search
     4. Arrays.binarySearch
+
+123. Descending Sort Challenge: Building Your Array Skills with Real Data
+    1. The Array Challenge
