@@ -29,3 +29,11 @@
 
 123. Descending Sort Challenge: Building Your Array Skills with Real Data
     1. The Array Challenge
+
+124. Common Pitfalls & Best Practices: A Comprehensive Arrays Recap
+    1. Arrays Recaps
+    2. Array Recap - Creating a New Array
+    3. First Common Error
+    4. Second Common Error
+    5. Third Common Error
+    6. Use Enhanced For Loop to avoid some of these errors.
