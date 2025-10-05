@@ -65,3 +65,6 @@
     1. Welcome to the Object-Oriented Programming Master Challenge!
     2. Bill's Burger Challenge
     3. Initial Design Considerations
+
+115. OOP Master Challenge, Part 2: Implementing Meal Orders and Pricing Strategies
+    1. Continued + MealOrder Challenge
