@@ -57,3 +57,6 @@
 
 112. Polymorphism Challenge: Building Gas, Electric, and Hybrid Car Classes in Java
     1. Polymorphism Challenge
+
+113. Polymorphism Challenge, Part 2: Finalizing Car Inheritance and Overridden Method
+    1. The Challendge, the Car Class Diagram [continued]
