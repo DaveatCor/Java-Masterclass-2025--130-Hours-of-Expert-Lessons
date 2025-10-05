@@ -45,3 +45,6 @@
     1. Arrays as method parameters
     2. Variable argument (varargs)
     3. When can we use variable arguments (varargs)?
+
+127. Finding the Smallest Value: A Hands-On Minimum Element Challenge
+    1. Minimum Element Challenge
