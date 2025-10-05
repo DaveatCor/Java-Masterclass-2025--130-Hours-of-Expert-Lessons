@@ -48,3 +48,6 @@
 
 127. Finding the Smallest Value: A Hands-On Minimum Element Challenge
     1. Minimum Element Challenge
+
+128. Reversing Arrays In-Place: Hands-On Practice with Swapping Elements
+    1. The Reverse Array Challenge
