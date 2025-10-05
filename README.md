@@ -20,3 +20,9 @@
 
 121. Sorting, Filling, and Copying: Mastering the java.util.Arrays Helper Class
     1. Why use arrays?
+
+122. Binary Search & Equality Checks: Speedy Lookups and Comparisons in Arrays
+    1. Finding a match
+    2. Searching Sequentially
+    3. Using intervals to Search
+    4. Arrays.binarySearch
