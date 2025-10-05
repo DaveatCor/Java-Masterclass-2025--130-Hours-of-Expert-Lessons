@@ -54,3 +54,6 @@
     1. Evaluating what the runtime type is
     2. instanceof operator
     3. Pattern Matching for the instanceof Operator
+
+112. Polymorphism Challenge: Building Gas, Electric, and Hybrid Car Classes in Java
+    1. Polymorphism Challenge
