@@ -51,3 +51,8 @@
 
 128. Reversing Arrays In-Place: Hands-On Practice with Swapping Elements
     1. The Reverse Array Challenge
+
+129. Navigating 2D Arrays: Matrix Representation and Nested Loop Traversals
+    1. Java's nested Arrays
+    2. Two-Dimentional Array
+    3. Accessing elements in multiple-dimensional arrays
