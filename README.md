@@ -56,3 +56,7 @@
     1. Java's nested Arrays
     2. Two-Dimentional Array
     3. Accessing elements in multiple-dimensional arrays
+
+130. Expanding to Multi-dimensional Arrays: Jagged Structures and Complex Data
+    1. Two dimensional Array
+    2. Multi Dimensional Array
