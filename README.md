@@ -10,3 +10,9 @@
 
 133. ArrayList Methods (Part 2): Add, Remove, and More
     1. Continue Code Practice
+
+134. ArrayList Methods (Part 3): Sorting, Copying & Searching
+    1. Continue Code Practice, MoreList
+
+135. Arrays vs. ArrayLists: A Practical Comparison
+    1.
