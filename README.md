@@ -7,3 +7,6 @@
     1. Java Array vs Java List
     2. So what is a List?
     3. The ArrayList
+
+133. ArrayList Methods (Part 2): Add, Remove, and More
+    1. Continue Code Practice
