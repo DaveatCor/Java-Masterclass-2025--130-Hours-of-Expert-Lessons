@@ -15,4 +15,12 @@
     1. Continue Code Practice, MoreList
 
 135. Arrays vs. ArrayLists: A Practical Comparison
-    1.
+    1. Arrays vs ArrayLists
+    2. Instantiating without Values
+    3. Instantiating with Values
+    4. Element information
+    5. Getting a String representation for Single Dimension Arrays and ArrayLists
+    6. Finding an element in an Array or ArrayList
+    7. Sorting
+    8. Array as an ArrayList
+    9. Creating Special Kinds of Lists
