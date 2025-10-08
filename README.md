@@ -27,3 +27,18 @@
 
 136. ArrayList Challenge Part 1: Building an Interactive Grocery List
     1. The ArrayList Challenge
+
+137. LinkedList Overview: Memory, Big O, and Why LinkedList Exists
+    1. Array of primitive values
+    2. Arrays and ArrayLists of reference types
+    3. ArrayList capacity
+    4. ArrayList capacity is reached
+    5. Big O Notation
+    6. Constant Amortized Time Cost
+    7. ArrayList Operations - Big O
+    8. LinkedList
+    9. LinkedList - Retrieval of an Element costs more than an ArrayList retrieval
+    10. LinkedList - Inserting or Removing an Element may be less costly than using an ArrayList
+    11. LinkedList and ArrayList Operations - Big O
+    12. Things to Remember when consisdering whether to use an ArrayList vs LinkedList
+    13. 
