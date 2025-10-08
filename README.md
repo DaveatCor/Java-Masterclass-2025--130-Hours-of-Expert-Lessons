@@ -24,3 +24,6 @@
     7. Sorting
     8. Array as an ArrayList
     9. Creating Special Kinds of Lists
+
+136. ArrayList Challenge Part 1: Building an Interactive Grocery List
+    1. The ArrayList Challenge
