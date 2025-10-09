@@ -46,3 +46,6 @@
     1. LinkedList
     2. A Queue is a First-In, First-Out (FIFO) Data Collection
     3. A Stack a is Last-In, First-Out (LIFO) Data Collection
+
+139. LinkedList Essentials (Part 2): Retrieving & Itinerary Example
+    1. 
