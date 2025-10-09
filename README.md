@@ -41,4 +41,8 @@
     10. LinkedList - Inserting or Removing an Element may be less costly than using an ArrayList
     11. LinkedList and ArrayList Operations - Big O
     12. Things to Remember when consisdering whether to use an ArrayList vs LinkedList
-    13. 
+
+138. LinkedList Essentials (Part 1): Adding & Removing Elements
+    1. LinkedList
+    2. A Queue is a First-In, First-Out (FIFO) Data Collection
+    3. A Stack a is Last-In, First-Out (LIFO) Data Collection
