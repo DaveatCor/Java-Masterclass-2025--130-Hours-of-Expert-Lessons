@@ -49,3 +49,9 @@
 
 139. LinkedList Essentials (Part 2): Retrieving & Itinerary Example
     1. 
+
+140. Iterators Explained: Navigating Lists with Forward & Reverse
+    1. What's an Iterator?
+    2. How does an Iterator work?
+    3. Iterator vs. ListIterator
+    4. Iterator position vs. Element positions
