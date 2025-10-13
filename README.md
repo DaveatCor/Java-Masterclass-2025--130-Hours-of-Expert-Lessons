@@ -55,3 +55,6 @@
     2. How does an Iterator work?
     3. Iterator vs. ListIterator
     4. Iterator position vs. Element positions
+
+141. LinkedList Challenge: Ordered Travel Itinerary (Part 1)
+    1. LinkedList Challenge

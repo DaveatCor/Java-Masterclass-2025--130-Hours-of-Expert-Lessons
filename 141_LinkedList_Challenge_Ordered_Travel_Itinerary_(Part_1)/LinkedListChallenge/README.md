@@ -1,0 +1,3 @@
+- Create Iterator
+- Order distance
+- Prevent duplicate
