@@ -58,3 +58,7 @@
 
 141. LinkedList Challenge: Ordered Travel Itinerary (Part 1)
     1. LinkedList Challenge
+
+142. LinkedList Challenge Continued: Interactive Navigation
+    1. LinkedList Challenge Continued
+    2. Reversing Directions in a List Iterator
