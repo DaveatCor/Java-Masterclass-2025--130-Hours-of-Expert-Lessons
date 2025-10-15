@@ -82,3 +82,6 @@
 
 147. Enums Demystified: Declaring & Using Predefined Constants
     1. The enum type
+
+148. Enums (Part 2): Switch Expressions & Custom Methods in Enums
+    1. 
