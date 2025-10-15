@@ -10,3 +10,10 @@
     4. Abstract method
     5. Concrete method
     6. Method Modifiers
+
+151. Diving into Abstract Classes (Part 1): Creating Flexible Hierarchies
+    1. Abstraction - What is it?
+    2. The abstract class
+    3. What's an abstract method?
+    4. What good is an abstract method, if it doesn't have any code in it?
+    5. Animal and Dog Class Diagram from our Inheritance example
