@@ -74,3 +74,6 @@
     8. Automatic unboxing
 
 144. Autoboxing & Unboxing for Arrays & Lists: Working with Wrapper Classes
+
+145. Autoboxing & Unboxing Challenge: Simple Banking App (Part 1)
+    1. Autoboxing Challenge with ArrayLists
