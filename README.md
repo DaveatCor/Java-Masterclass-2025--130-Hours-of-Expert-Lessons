@@ -77,3 +77,8 @@
 
 145. Autoboxing & Unboxing Challenge: Simple Banking App (Part 1)
     1. Autoboxing Challenge with ArrayLists
+
+146. Autoboxing & Unboxing Challenge: Bank & Customer Implementation (Part 2)
+
+147. Enums Demystified: Declaring & Using Predefined Constants
+    1. The enum type
