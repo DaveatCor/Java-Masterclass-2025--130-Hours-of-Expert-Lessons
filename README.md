@@ -20,3 +20,8 @@
 
 152. Diving into Abstract Classes (Part 2): Polymorphic Behavior & Implementation
     1. Code Challenge
+
+153. Diving into Abstract Classes (Part 3): Advanced Hierarchies & Use Cases
+    1. Continued code practice
+    2. An Abstract class doesn't have to implement abstract methods
+    3. Why use an abstract class?
