@@ -25,6 +25,18 @@
     1. Continued code practice
     2. An Abstract class doesn't have to implement abstract methods
     3. Why use an abstract class?
-    
+
 154. Abstract Class Challenge (Part 1): Building a Storefront & Product Hierarchy
     1. Abstract Class Challenge
+
+155. Abstract Class Challenge (Part 2): Finalizing the Store & Order System
+    1. Abstract Class Challenge Continued
+
+156. Interfaces (Part 1): Harnessing Contracts & Polymorphic Behavior in Java
+    1. Interface vs. Abstract class
+    2. Declaring an interface
+    3. Using an interface
+    4. A class can use extends and implements in same declaration
+    5. The abstract modifier is implied on an interface
+    6. All members on an interface are implicitly public
+    7. 
