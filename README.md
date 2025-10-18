@@ -25,3 +25,6 @@
     1. Continued code practice
     2. An Abstract class doesn't have to implement abstract methods
     3. Why use an abstract class?
+    
+154. Abstract Class Challenge (Part 1): Building a Storefront & Product Hierarchy
+    1. Abstract Class Challenge
