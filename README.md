@@ -46,3 +46,18 @@
     3. The final modifier in Java
     4. Constatns in Java
     5. A field declared on an Interface is always public, static and final 
+
+158. Interfaces (Part 3): Constants, Conversion & Flexible Abstractions
+    1. Extending Interfaces
+    2. Implements is invalid on an interface
+    3. Abstracted Types - Coding to an Interface
+    4. Coding to an interface
+
+159. Interfaces & JDK 8 Enhancements: Default/Static Methods for Compatibility
+    1. What's happended to the Interface since JDK 8
+    2. The Interface Extension Method - the default method (as of JDK8)
+    3. Overriding a default method
+
+160. Interfaces & JDK 9 Enhancements: Private & Static Methods in Action
+    1. public static methods on an interface (as of JDK 8)
+    2. Private methods (JDK 9)
