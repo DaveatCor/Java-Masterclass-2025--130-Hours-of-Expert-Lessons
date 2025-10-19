@@ -39,4 +39,10 @@
     4. A class can use extends and implements in same declaration
     5. The abstract modifier is implied on an interface
     6. All members on an interface are implicitly public
-    7. 
+
+157. Interfaces (Part 2): Multiple Implementations & Real-World Examples
+    1. The Bird Class
+    2. The FlightEnabled Interface
+    3. The final modifier in Java
+    4. Constatns in Java
+    5. A field declared on an Interface is always public, static and final 
