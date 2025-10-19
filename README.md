@@ -69,3 +69,7 @@
     4. Use an interface when...
     5. Interfaces are the used in many of Java's own features
     6. Interface vs. Abstract Class
+
+162. Interface Challenge (Part 1): Creating Mappable Classes & GeoJSON-Like Output
+    1. The interface Challenge
+    2. The Class Diagram
