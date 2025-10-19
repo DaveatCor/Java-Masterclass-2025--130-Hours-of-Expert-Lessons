@@ -73,3 +73,5 @@
 162. Interface Challenge (Part 1): Creating Mappable Classes & GeoJSON-Like Output
     1. The interface Challenge
     2. The Class Diagram
+
+163. Interface Challenge (Part 2): Finalizing Mapping Logic & Extended Features
