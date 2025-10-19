@@ -61,3 +61,11 @@
 160. Interfaces & JDK 9 Enhancements: Private & Static Methods in Action
     1. public static methods on an interface (as of JDK 8)
     2. Private methods (JDK 9)
+
+161. Interface vs. Abstract Class: Key Differences & Best Use Cases
+    1. Abstract Class
+    2. Use an Abstract class when...
+    3. Interface
+    4. Use an interface when...
+    5. Interfaces are the used in many of Java's own features
+    6. Interface vs. Abstract Class
