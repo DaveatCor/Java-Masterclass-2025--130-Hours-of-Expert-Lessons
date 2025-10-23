@@ -7,3 +7,9 @@
     1. What are Generics?
     2. Declaring a Class vs. Declaring a generic Class
     3. Using a generic class as a reference type
+
+166. Refining Generic Classes: Polymorphism & Type Safety
+    1. Solution 1: Duplicate code
+    2. Solution 2: Use a Player interface or abstract class to support different types of players
+    3. Generic Type Parameters
+    4. Raw usage of generic classes.
