@@ -13,3 +13,7 @@
     2. Solution 2: Use a Player interface or abstract class to support different types of players
     3. Generic Type Parameters
     4. Raw usage of generic classes.
+
+167. Advanced Generics: Multiple Type Parameters & Bounded Types
+    1. Generic classes can be bounded, limiting the types that can use it.
+    2. Why specify an upper bound?
