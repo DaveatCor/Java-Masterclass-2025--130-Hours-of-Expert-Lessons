@@ -27,3 +27,7 @@
 170. Comparable Revisited: Sorting Objects by Natural Order
     1. Interfaces used for sorting
     2. Comparable Interface
+
+171. Comparable vs. Comparator: Distinctions & Sorting Strategies
+    1. The Comparator Interface
+    2. Summary of Differences
