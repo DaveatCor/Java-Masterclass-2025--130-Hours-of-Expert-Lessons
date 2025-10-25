@@ -17,3 +17,6 @@
 167. Advanced Generics: Multiple Type Parameters & Bounded Types
     1. Generic classes can be bounded, limiting the types that can use it.
     2. Why specify an upper bound?
+
+168. Generic Class Challenge (Part 1): Building Reusable Structures
+    1. Generic Class Challenge
