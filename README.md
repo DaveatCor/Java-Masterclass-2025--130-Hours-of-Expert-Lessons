@@ -20,3 +20,6 @@
 
 168. Generic Class Challenge (Part 1): Building Reusable Structures
     1. Generic Class Challenge
+
+169. Generic Class Challenge (Part 2): Finalizing Maps & Overviews
+    1. continued Generic Class Challenge
