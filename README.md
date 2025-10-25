@@ -23,3 +23,7 @@
 
 169. Generic Class Challenge (Part 2): Finalizing Maps & Overviews
     1. continued Generic Class Challenge
+
+170. Comparable Revisited: Sorting Objects by Natural Order
+    1. Interfaces used for sorting
+    2. Comparable Interface
