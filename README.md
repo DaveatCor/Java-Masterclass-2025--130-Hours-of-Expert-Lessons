@@ -35,3 +35,9 @@
 172. Generic Classes as Reference Types: Wildcards & Method Parameters
     1. What's left to know about Generics?
     2. This isn't inhertice
+
+173. Generic Methods, Wildcards & Type Erasure: Handling Advanced Cases
+    1. Limitation of a reference of generic class with a list argument
+    2. The generic method
+    3. Type Paramters, Type Arguments and using a WildCard
+    4. Type Erasure
