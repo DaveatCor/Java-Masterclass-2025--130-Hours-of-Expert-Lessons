@@ -41,3 +41,6 @@
     2. The generic method
     3. Type Paramters, Type Arguments and using a WildCard
     4. Type Erasure
+
+174. Static Methods in Generics & Multiple Upper Bounds Explained
+    1. Using Multiple types to declare an Upper Bound 
