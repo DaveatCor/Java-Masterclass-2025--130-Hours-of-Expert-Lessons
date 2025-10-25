@@ -31,3 +31,7 @@
 171. Comparable vs. Comparator: Distinctions & Sorting Strategies
     1. The Comparator Interface
     2. Summary of Differences
+
+172. Generic Classes as Reference Types: Wildcards & Method Parameters
+    1. What's left to know about Generics?
+    2. This isn't inhertice
