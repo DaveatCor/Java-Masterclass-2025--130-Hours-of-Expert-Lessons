@@ -44,3 +44,6 @@
 
 174. Static Methods in Generics & Multiple Upper Bounds Explained
     1. Using Multiple types to declare an Upper Bound 
+
+175. Final Generics Challenge: Integrating Bounded Types & Comparators
+    1. Putting it all together, Final Section Challenge
