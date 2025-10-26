@@ -13,3 +13,6 @@
 
 179. Applying Inner Classes: Bill’s Burger Revisited
     1. Continued Code Practice
+
+180. Inner Classes Challenge: Practical Enhancements
+    1. Bills Burgers with Inner Classes
