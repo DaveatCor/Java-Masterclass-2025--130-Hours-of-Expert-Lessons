@@ -4,3 +4,6 @@
     1. Nesting classes (or types) within another class (or type)
     2. Nested Classes
     3. Important Restrictions for nested classes were removed in JDK16
+
+177. Static Nested Classes: Encapsulation & Access Rules
+    1. Static Nested Class
