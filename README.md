@@ -23,3 +23,8 @@
     3. Final Variables and Effectively Final
     4. Effectively Final
     5. Additonal Local Types
+
+182. Anonymous Classes: Inline Instantiation & Use Cases
+    1. Anonymous Classes
+    2. Anonymous class creation
+    3. 
