@@ -15,3 +15,7 @@
     1. The Lambda Expression
     2. The Consumer Interface
     3. Streams
+
+187. Custom Functional Interfaces: Building Reusable Lambda Expressions in Java
+    1. Lambda expessions with multiple paramters
+    2. Lambda expressions that return values
