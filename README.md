@@ -10,3 +10,8 @@
     4. Where's the method in the lambda expression?
     5. How can Java infer the method?
     6. What's a functional interface?
+
+186. Exploring Lambda Expression Syntax: Variations, Rules, and Advanced Examples
+    1. The Lambda Expression
+    2. The Consumer Interface
+    3. Streams
