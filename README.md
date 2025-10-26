@@ -10,3 +10,6 @@
 
 178. Inner Classes: Non-Static Nesting & Syntax
     1. Inner Classes
+
+179. Applying Inner Classes: Bill’s Burger Revisited
+    1. Continued Code Practice
