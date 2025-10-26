@@ -16,3 +16,10 @@
 
 180. Inner Classes Challenge: Practical Enhancements
     1. Bills Burgers with Inner Classes
+
+181. Local Classes: Scoping & Effective-Final Variables
+    1. Local Classes
+    2. Local Class's 'Captured Variables'
+    3. Final Variables and Effectively Final
+    4. Effectively Final
+    5. Additonal Local Types
