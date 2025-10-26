@@ -7,3 +7,6 @@
 
 177. Static Nested Classes: Encapsulation & Access Rules
     1. Static Nested Class
+
+178. Inner Classes: Non-Static Nesting & Syntax
+    1. Inner Classes
