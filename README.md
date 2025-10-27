@@ -19,3 +19,12 @@
 187. Custom Functional Interfaces: Building Reusable Lambda Expressions in Java
     1. Lambda expessions with multiple paramters
     2. Lambda expressions that return values
+
+188. Exploring Java's Built-In Functional Interfaces: Consumer and Predicate
+    0. Java's Functional Interfaces, Consumer & Predicate
+    1. java.util.function
+    2. The Four categories of Functional Interfaces
+    3. The Consumer interface
+    4. A Consumer Lambda Expression Example
+    5. The Predicate Interface
+    6. A Predicate Lambda Expression Example
