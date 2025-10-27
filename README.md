@@ -28,3 +28,10 @@
     4. A Consumer Lambda Expression Example
     5. The Predicate Interface
     6. A Predicate Lambda Expression Example
+
+189. Exploring Java's Built-In Functional Interfaces: Function and Supplier
+    1. The Function interface
+    2. A Function Interface Lambda Expression Example
+    3. The Supplier Interface
+    4. A Supplier Lambda Expression Example
+    5. Valid Lambda Declarations for different number of arguments
