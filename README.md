@@ -35,3 +35,7 @@
     3. The Supplier Interface
     4. A Supplier Lambda Expression Example
     5. Valid Lambda Declarations for different number of arguments
+
+190. Hands-On Practice: Lambda Mini-Challenges for Skill Reinforcement and Mastery
+    1. Lambda Mini Challenges
+    2. Mini Challenge 1, 2, 3, 4, 5, 6, 7
