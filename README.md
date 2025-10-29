@@ -60,3 +60,8 @@
 
 195. Chaining Lambdas: Leveraging Convenience Methods on Functional Interfaces
     1. Convenience Methods
+
+196. Advanced Comparator Usage: Leveraging Convenience Methods for Enhanced Sorting
+    0. Convenience Methods, Continued, with the Comparator
+    1. Convenience Methods on functional interfaces in java.util.function package
+    2. Comparator's additional helper methods
