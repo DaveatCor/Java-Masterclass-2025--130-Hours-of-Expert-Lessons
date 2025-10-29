@@ -48,3 +48,9 @@
     2. Why are these statements equal?
     3. What methods can be used in method references?
     4. Deferred Method Invocation
+
+193. Understanding the Most Complex Method References: Unbounded Receiver Explained
+    1. Some Terminology for the next couple of Slides
+    2. Four Types of Method References
+    3. Method Reference Example (No arguments and one argument)
+    4. Method Reference Examples (Two Arguments)
