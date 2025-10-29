@@ -54,3 +54,6 @@
     2. Four Types of Method References
     3. Method Reference Example (No arguments and one argument)
     4. Method Reference Examples (Two Arguments)
+
+194. Hands-On Practice: Method Reference Challenge for Practical Skill Development
+    1. Method and Lambda Challenge
