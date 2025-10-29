@@ -57,3 +57,6 @@
 
 194. Hands-On Practice: Method Reference Challenge for Practical Skill Development
     1. Method and Lambda Challenge
+
+195. Chaining Lambdas: Leveraging Convenience Methods on Functional Interfaces
+    1. Convenience Methods
