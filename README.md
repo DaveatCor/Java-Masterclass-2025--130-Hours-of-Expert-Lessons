@@ -42,3 +42,9 @@
 
 191. Lambda Expression Challenge: Applying Skills with Arrays, Lists, and Operations
     1. Lambda Expression Challenge
+
+192. Demystifying Method References: Simplifying Lambda Expressions in Java Code
+    1. What's a Method Reference?
+    2. Why are these statements equal?
+    3. What methods can be used in method references?
+    4. Deferred Method Invocation
