@@ -39,3 +39,6 @@
 190. Hands-On Practice: Lambda Mini-Challenges for Skill Reinforcement and Mastery
     1. Lambda Mini Challenges
     2. Mini Challenge 1, 2, 3, 4, 5, 6, 7
+
+191. Lambda Expression Challenge: Applying Skills with Arrays, Lists, and Operations
+    1. Lambda Expression Challenge
