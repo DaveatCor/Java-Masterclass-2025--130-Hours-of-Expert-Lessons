@@ -14,3 +14,7 @@
     7. The set
     8. The Map
     9. What's a polymorphic algorithm?
+
+199. Creating a Versatile Deck of Cards in Java: Code Setup & Best Practices
+    1. The Code Setup
+    2. The class diagram for my solution
