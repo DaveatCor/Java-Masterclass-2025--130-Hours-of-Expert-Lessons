@@ -2,3 +2,15 @@
 
 197. Java Collections Framework: An In-Depth Introduction for Beginners
     1. Introduction Collection Framework
+
+198. Deep Dive into Java Collections: Core Interfaces and Big Picture
+    0. Collections: Understanding the Big Picture
+    1. A Collection Framework
+    2. What's in the framework, what's not?
+    3. The Collection Interface
+    4. Collections - The Big Picture
+    5. The List
+    6. The Queue
+    7. The set
+    8. The Map
+    9. What's a polymorphic algorithm?
