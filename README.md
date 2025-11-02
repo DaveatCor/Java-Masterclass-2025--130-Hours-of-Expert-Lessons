@@ -34,3 +34,6 @@
     0. Collections methods Challenge, Your own card
     1. The Card Game Challenge
     2. Poker: Five Card Draw
+
+204. Completing the Collections Challenge: Five Card Draw (Poker)
+    0. Collection Methods Challenge, (Five Card Draw), continued
