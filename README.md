@@ -23,3 +23,6 @@
     0. Introduction to jaa.util.Collections
     1. What's a Collections Class?
     2. The Setup - a Quick Review
+
+201. Advanced java.util.Collections: Shuffle, Reverse, Sort, indexOfSubList
+    0. java.util.Collections (shuffle, reverse, sort, indexOfSubList)
