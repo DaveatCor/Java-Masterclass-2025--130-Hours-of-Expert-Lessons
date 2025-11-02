@@ -18,3 +18,8 @@
 199. Creating a Versatile Deck of Cards in Java: Code Setup & Best Practices
     1. The Code Setup
     2. The class diagram for my solution
+
+200. Exploring java.util.Collections: Essential Methods and List Operations
+    0. Introduction to jaa.util.Collections
+    1. What's a Collections Class?
+    2. The Setup - a Quick Review
