@@ -26,3 +26,6 @@
 
 201. Advanced java.util.Collections: Shuffle, Reverse, Sort, indexOfSubList
     0. java.util.Collections (shuffle, reverse, sort, indexOfSubList)
+
+202. Mastering java.util.Collections: binarySearch, frequency, min, max, rotate
+    0. java.util.Collections (binarySearch, frequency, min, max, rotate)
