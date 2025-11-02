@@ -29,3 +29,8 @@
 
 202. Mastering java.util.Collections: binarySearch, frequency, min, max, rotate
     0. java.util.Collections (binarySearch, frequency, min, max, rotate)
+
+203. Challenge: Building a Custom Card Game with java.util.Collections
+    0. Collections methods Challenge, Your own card
+    1. The Card Game Challenge
+    2. Poker: Five Card Draw
