@@ -37,3 +37,13 @@
 
 204. Completing the Collections Challenge: Five Card Draw (Poker)
     0. Collection Methods Challenge, (Five Card Draw), continued
+
+205. Java Hash Codes Explained: Mastering the Basics for Effective Collections
+    0. Understanding the importance of the hash code
+    1. Hashing starts with understanding equality
+    2. The equals method on Object
+    3. Do we remember what == means for objects?
+    4. Equality of Objects
+    5. The visual representaiton of the code
+    6. Creating the hashCode method
+    7. Java's Hashed Collection Types
