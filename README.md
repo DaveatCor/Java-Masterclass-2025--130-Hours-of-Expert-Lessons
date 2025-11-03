@@ -47,3 +47,8 @@
     5. The visual representaiton of the code
     6. Creating the hashCode method
     7. Java's Hashed Collection Types
+
+206. Preparing for Sets and Maps: Setting Up Phone and Email Contacts in Java
+    1. The setup
+    2. The Setup Challenge - The Contact Class
+    3. The Setup Challenge - The Data (ContactData class)
