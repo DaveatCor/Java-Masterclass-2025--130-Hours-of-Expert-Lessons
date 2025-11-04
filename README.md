@@ -58,3 +58,13 @@
     1. The Set
     2. Set methods
     3. The HashSet class
+
+208. Java Set Operations Explained: Mastering Union, Intersection, & Difference
+    0. Set Operations, Symmetric and Asymmetric results
+    1. Set Operations
+    2. Representating Sets in a Venn Diagram
+    3. Set Operations - Union A ∪ B
+    4. Set Operations - Interact - A ∩ B
+    5. Set Operations - Symmetric Operations
+    6. Set Operations - Asymmetric Differences
+    7. Set Operations - Symmetric Differnces
