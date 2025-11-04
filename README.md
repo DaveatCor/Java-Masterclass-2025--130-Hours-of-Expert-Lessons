@@ -82,3 +82,8 @@
     5. The TreeSet interface hierarchy
     6. The TreeSet relies on Comparable or Comparator methods
 
+212. Java TreeSet Mastery: Navigating with Closest Match and Subset Methods
+    0. TreeSet, Closet match and subset methods
+    1. NavigableSet methods to get closet matches
+    2. Getting subsets from a TreeSet.
+    3. WHen would we use a TreeSet?
