@@ -95,3 +95,9 @@
 
 214. Completing the Theatre Seat Booking System Challenge
     0. Continue TreeSet Challenge (Theatre Seat Bonus)
+215. Comprehensive Guide to the Java Map Interface and Its Functionality
+    0. The Map Interface and functionality
+    1. The Map Interface, why is it different?
+    2. Map characteristics
+    3. Map Implementations (the classes that implement Map)
+
