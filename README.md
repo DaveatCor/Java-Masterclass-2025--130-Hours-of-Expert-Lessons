@@ -87,3 +87,9 @@
     1. NavigableSet methods to get closet matches
     2. Getting subsets from a TreeSet.
     3. WHen would we use a TreeSet?
+
+213. Challenge: Building a Robust Theatre Seat Booking System with TreeSet
+    0. TreeSet Challenge (Theatre Seats)
+    1. The TreeSet Challenge (Theatre Seating)
+    2. The Theatre Challenge Bonus
+
