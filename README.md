@@ -101,3 +101,5 @@
     2. Map characteristics
     3. Map Implementations (the classes that implement Map)
 
+216. Advanced Map Operations: compute, replace, and remove Methods Explained
+    0. Map functionality continued (compute, computeIfPresent, computerIfAbsent)
