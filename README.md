@@ -73,3 +73,12 @@
     1. Set Operations Challenge - Task Class
 210. Java Set Operations Challenge: Real-World Application with Task Management
     0. Set Operations Challenge
+211. Exploring LinkedHashSet and TreeSet: Ordered Sets in Java
+    0. LinkedHeshSet and TreeSet
+    1. Ordered Sets
+    2. The LinkedHashSet
+    3. TreeSet
+    4. TreeSet O Notation
+    5. The TreeSet interface hierarchy
+    6. The TreeSet relies on Comparable or Comparator methods
+
