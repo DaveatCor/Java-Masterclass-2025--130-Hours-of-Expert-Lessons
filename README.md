@@ -103,3 +103,11 @@
 
 216. Advanced Map Operations: compute, replace, and remove Methods Explained
     0. Map functionality continued (compute, computeIfPresent, computerIfAbsent)
+
+217. Mastering Map View Collections: keySet, values, and entrySet in Java
+    0. Working with Map's view collections (KeySet, Values, entrySet)
+    1. What's a view?
+    2. The purpose of view collections
+    3. The HashMap's implementation
+    4. The Map's view collections
+    5. Functionality available to set returned from keySet()
