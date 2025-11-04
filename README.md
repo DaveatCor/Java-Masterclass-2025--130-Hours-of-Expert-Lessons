@@ -68,3 +68,6 @@
     5. Set Operations - Symmetric Operations
     6. Set Operations - Asymmetric Differences
     7. Set Operations - Symmetric Differnces
+209. Java Set Operations Challenge: Setting Up Task and TaskData Classes
+    0. Code Setup (Tasks and TaskData)
+    1. Set Operations Challenge - Task Class
