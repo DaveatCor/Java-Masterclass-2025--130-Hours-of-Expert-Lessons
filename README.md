@@ -52,3 +52,9 @@
     1. The setup
     2. The Setup Challenge - The Contact Class
     3. The Setup Challenge - The Data (ContactData class)
+
+207. Introduction to Java Sets and HashSet: Mastering Unordered Collections
+    0. Introduction to Sets & HashSet
+    1. The Set
+    2. Set methods
+    3. The HashSet class
