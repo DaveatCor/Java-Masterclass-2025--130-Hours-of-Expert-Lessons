@@ -120,3 +120,7 @@
 
 219. Completing the Text Adventure Game Challenge
     0. HashMap Challenge, A Text-Based Adventure Game
+
+220. Exploring LinkedHashMap and TreeMap: Ordered Maps in Java
+    0. LinkedHashMap and TreeMap
+    1. Orderd and Sorted Map implementations
