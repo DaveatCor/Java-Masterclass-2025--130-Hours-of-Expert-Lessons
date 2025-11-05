@@ -17,3 +17,9 @@
     1. Hiding vs. Overriding
     2. Recommendation: Always use the type, to invoke the static method
     3. Using final for variables
+
+229. Understanding Side Effects of Mutability: Defensive Coding Techniques
+    0. When Change isn't good
+    1. Formatting Date Time
+    2. Format Date and Time
+    3. Controlling Change

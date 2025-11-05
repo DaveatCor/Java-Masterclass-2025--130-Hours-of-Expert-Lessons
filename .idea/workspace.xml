@@ -39,25 +39,25 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques" />
       <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/225_Building_a_Complete_Store_Inventory_Management_System_(Part_2)" />
       <recent name="$PROJECT_DIR$/224_Building_a_ Complete_Store_Inventory_Management_System_(Part_1)" />
       <recent name="$PROJECT_DIR$/221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling" />
-      <recent name="$PROJECT_DIR$/220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques" />
       <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/223_Collection_Framework_Final_Challenge_Part_1" />
       <recent name="$PROJECT_DIR$/222_EnumSet_and_EnumMap_Optimizing_Collections_for_Enum_Types_in_Java" />
       <recent name="$PROJECT_DIR$/220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java" />
-      <recent name="$PROJECT_DIR$/218_Challenge_Build_a_Text_Based_Adventure_Game_with_Java_HashMap  " />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
