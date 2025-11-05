@@ -128,3 +128,11 @@
 221. Mastering TreeMap: NavigableMap Methods for Efficient Data Handling
     0. Working with TreeMap(NavigableMap) methods
     1. TreeMap's View collections
+
+222. EnumSet and EnumMap: Optimizing Collections for Enum Types in Java
+    0. Targeted Collections for enum types
+    1. EnumSet and EnumMap
+    2. The EnumSet
+    3. The EnumMap
+    4. Two Types of EnumSet implementations
+    5. Ann's Work Day EnumSet

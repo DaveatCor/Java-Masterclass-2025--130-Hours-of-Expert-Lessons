@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b755cb6c-57a8-4b12-b56b-9f398371c60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../221_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortedMaps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/lpa/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java/SortedMaps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java/SortedMaps/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../222_EnumSet_and_EnumMap_Optimizing_Collections_for_Enum_Types_in_Java/222_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
