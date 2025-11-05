@@ -136,3 +136,11 @@
     3. The EnumMap
     4. Two Types of EnumSet implementations
     5. Ann's Work Day EnumSet
+
+223. Collection Framework Final Challenge Part 1
+    0. Collections Framework Final Challenge(The Setup)
+    1. Build a Store's Inventory System
+    2. Product and InventoryItem
+    3. The Cart
+    4. The Store
+    5. Try to use a variety of Collections Framework implementations and methods
