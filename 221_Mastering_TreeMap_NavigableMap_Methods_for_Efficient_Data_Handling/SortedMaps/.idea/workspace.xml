@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b755cb6c-57a8-4b12-b56b-9f398371c60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/SortedMaps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps/src/dev/lpa/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dev/lpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../221_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/lpa/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java/SortedMaps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java/SortedMaps/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "section15",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java/SortedMaps",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling/SortedMaps",
     "onboarding.tips.debug.path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/218_Challenge_Build_a_Text_Based_Adventure_Game_with_Java_HashMap/SortedMaps/src/Main.java"
   }
 }]]></component>

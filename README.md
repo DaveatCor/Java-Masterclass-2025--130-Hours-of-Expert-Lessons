@@ -124,3 +124,7 @@
 220. Exploring LinkedHashMap and TreeMap: Ordered Maps in Java
     0. LinkedHashMap and TreeMap
     1. Orderd and Sorted Map implementations
+
+221. Mastering TreeMap: NavigableMap Methods for Efficient Data Handling
+    0. Working with TreeMap(NavigableMap) methods
+    1. TreeMap's View collections
