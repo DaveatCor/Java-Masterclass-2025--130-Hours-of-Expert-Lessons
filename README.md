@@ -23,3 +23,8 @@
     1. Formatting Date Time
     2. Format Date and Time
     3. Controlling Change
+
+230. Designing Immutable Classes: Private Final Fields, Defensive Copies - Part 1
+    0. Declaring immutable classes to produce immutable object, Part 1
+    1. Immutable Object
+    2. Strategies for Declaring a Class, to produce immutable objects
