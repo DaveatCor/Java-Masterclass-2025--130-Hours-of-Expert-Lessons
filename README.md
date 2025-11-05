@@ -11,3 +11,9 @@
     0. Revisiting the final modifier
     1. The final modifier in Java
     2. Using the final modifier on methods
+
+228. Final Modifier: Static Methods, Hiding vs. Overriding, Final Variables
+    0. The final modifier applied to methods, and local variables
+    1. Hiding vs. Overriding
+    2. Recommendation: Always use the type, to invoke the static method
+    3. Using final for variables

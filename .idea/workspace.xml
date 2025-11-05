@@ -25,39 +25,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/225_Building_a_Complete_Store_Inventory_Management_System_(Part_2)" />
       <recent name="$PROJECT_DIR$/224_Building_a_ Complete_Store_Inventory_Management_System_(Part_1)" />
       <recent name="$PROJECT_DIR$/221_Mastering_TreeMap_NavigableMap_Methods_for_Efficient_Data_Handling" />
       <recent name="$PROJECT_DIR$/220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java" />
-      <recent name="$PROJECT_DIR$/219_Completing_the_Text_Adventure_Game_Challenge" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/223_Collection_Framework_Final_Challenge_Part_1" />
       <recent name="$PROJECT_DIR$/222_EnumSet_and_EnumMap_Optimizing_Collections_for_Enum_Types_in_Java" />
       <recent name="$PROJECT_DIR$/220_Exploring_LinkedHashMap_and_TreeMap_Ordered_Maps_in_Java" />
       <recent name="$PROJECT_DIR$/218_Challenge_Build_a_Text_Based_Adventure_Game_with_Java_HashMap  " />
-      <recent name="$PROJECT_DIR$/217_Mastering _Map_View_Collections_keySet_values_and_entrySet_in_Java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
