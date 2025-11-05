@@ -144,3 +144,9 @@
     3. The Cart
     4. The Store
     5. Try to use a variety of Collections Framework implementations and methods
+
+224. Building a Complete Store Inventory Management System (Part 1)
+    0. Final Challenge(Store Inventory)
+
+225. Building a Complete Store Inventory Management System (Part 2)
+    0. Final Challenge (Store Inventory)
