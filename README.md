@@ -111,3 +111,12 @@
     3. The HashMap's implementation
     4. The Map's view collections
     5. Functionality available to set returned from keySet()
+
+218. Challenge: Build a Text-Based Adventure Game with Java HashMap
+    0. HashMap Challenge, A Text-Based Adventure Game
+    1. The Adventure Game
+    2. The Adventure Game's Conceptual Map
+    3. The Adventure Game
+
+219. Completing the Text Adventure Game Challenge
+    0. HashMap Challenge, A Text-Based Adventure Game
