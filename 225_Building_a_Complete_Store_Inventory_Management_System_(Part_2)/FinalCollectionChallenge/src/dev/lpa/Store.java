@@ -1,5 +1,6 @@
 package dev.lpa;
 
+import java.time.LocalDate;
 import java.util.*;
 
 public class Store {
@@ -18,6 +19,12 @@ public class Store {
         myStore.listProductsByCategory();
 
         myStore.manageStoreCarts();
+        myStore.listProductsByCategory(false, true);
+        myStore.carts.forEach(System.out::println);
+
+        myStore.abandonCarts();
+        myStore.listProductsByCategory(false, true);
+        myStore.carts.forEach(System.out::println);
     }
 
     private void manageStoreCarts(){
@@ -44,9 +51,12 @@ public class Store {
         System.out.println(cart3);
         if (!checkOutChart(cart3)){
             System.out.println("Something went wrong, could not check out");
-        } else {
-
         }
+
+        Cart cart4 = new Cart(Cart.CardType.PHYSICAL, 0);
+        carts.add(cart4);
+        cart4.addItem(aiSaleInventory.get(Category.BEVERAGE).get("tea"), 1);
+        System.out.println(cart4);
     }
 
     private  boolean checkOutChart(Cart cart){
@@ -59,12 +69,27 @@ public class Store {
             }
         }
         cart.printSalesSlip(inventory);
-//        carts.remove(cart);
+        carts.remove(cart);
         return true;
     }
 
     private void abandonCarts(){
-
+        int dayOfYear = LocalDate.now().getDayOfYear();
+        Cart lastCart = null;
+        for (Cart cart : carts){
+            if (cart.getCartDate().getDayOfYear() == dayOfYear){
+                break;
+            }
+            lastCart = cart;
+        }
+        var oldCarts = carts.headSet(lastCart, true);
+        Cart abandonedCart = null;
+        while((abandonedCart = oldCarts.pollFirst()) != null){
+            for (String sku : abandonedCart.getProducts().keySet()){
+                InventoryItem item = inventory.get(sku);
+                item.releaseItem(abandonedCart.getProducts().get(sku));
+            }
+        }
     }
 
     private void listProductsByCategory(){
