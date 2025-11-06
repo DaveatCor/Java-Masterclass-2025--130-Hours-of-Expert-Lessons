@@ -75,3 +75,6 @@
     1. Record Constructors come in three flavors
     2. The compact constructor
     3. The Java Class File Disassembler
+
+239. Mastering Enum Constructors and Static Initializers in Java
+    0. Enum Constructors
