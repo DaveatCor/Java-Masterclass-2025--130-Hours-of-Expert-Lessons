@@ -102,3 +102,11 @@
 244. Enhancing Code Security: Final Classes & Constructor Access Modifiers
     0. Final Classes, Review of constructor access modifiers
     1. Final Classes
+
+245. Restricting Class Extension in Java with the Sealed Classes and Interfaces
+    0. Sealed Classes
+    1. Sealed Classes
+    2. sealed class
+
+246. Building a Complete Pirate Game: Loot, Combat, and Town Features in Java
+    0. Final Section Challenge

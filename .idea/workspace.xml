@@ -5,25 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/244_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/GameConsole.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/MainFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/GameAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/Shooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/game/ShooterGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/pirate/Pirate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/pirate/PirateGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers/GameConsole/src/dev/lpa/pirate/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/246_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/GameConsole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/MainFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/GameAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/GameConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/Shooter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/game/ShooterGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/Combatant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/Feature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/Loot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/Pirate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/PirateGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/pirate/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/BetterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/FinalKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/FreeGrandKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/NonSealedKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/SealedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/SealedKid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/SpecialAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java/GameConsole/src/dev/lpa/sealed/StringChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed/BetterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed/BetterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed/SealedKid.java" beforeDir="false" afterPath="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed/SealedKid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,25 +74,25 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section16",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/244_Enhancing_Code_Security_Final_Classes_&_Constructor_Access_Modifiers",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa" />
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed" />
+      <recent name="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java" />
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces" />
       <recent name="$PROJECT_DIR$/244_Enhancing_Code_Security_Final_Classes_&amp;_Constructor_Access_Modifiers" />
-      <recent name="$PROJECT_DIR$/243_Pirate_Game_Development_in_Java_Implementing_Game_Logic_and_Data_Loading" />
-      <recent name="$PROJECT_DIR$/242Java_Coding_Challenge_Designa_Pirate_Adventure_with_Constructors_&amp;_Initializer" />
-      <recent name="$PROJECT_DIR$/239_Mastering_Enum_Constructors_and_Static_Initializers_in_Java" />
-      <recent name="$PROJECT_DIR$/238_Demystifying_Record_Constructors_Canonical_Custom_and_Compact_Forms" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces" />
       <recent name="$PROJECT_DIR$/242Java_Coding_Challenge_Designa_Pirate_Adventure_with_Constructors_&amp;_Initializer" />
       <recent name="$PROJECT_DIR$/240_Building_a_Game_Console_Framework_with_Player_Input" />
       <recent name="$PROJECT_DIR$/236_Building_a_Secure_Banking_Application_Implementing_Transaction_Handling" />
       <recent name="$PROJECT_DIR$/235_Implementing_Unmodifiable_Collections_in_a_Banking_Application" />
-      <recent name="$PROJECT_DIR$/233_Shallow_vs_Deep_Copies_Protecting_Data_Integrity_in_Java_Applications" />
     </key>
   </component>
   <component name="RunManager">
