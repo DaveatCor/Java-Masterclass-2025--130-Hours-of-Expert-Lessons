@@ -98,3 +98,7 @@
 
 242. Java Coding Challenge: Design a Pirate Adventure with Constructors & Initializer
     0. Challenge: A Pirate Game continued
+
+244. Enhancing Code Security: Final Classes & Constructor Access Modifiers
+    0. Final Classes, Review of constructor access modifiers
+    1. Final Classes
