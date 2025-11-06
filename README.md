@@ -90,3 +90,8 @@
 
 241. Building a Generic Game Console: Implementing Game and Player Interactions
     0. Game Consoler Setup, Part 2
+
+242. Java Coding Challenge: Design a Pirate Adventure with Constructors & Initializer
+    0. Challenge: Initializers and Constructors, A Pirate Game
+    1. The Initializer Challenge, Pirate Invasion Game
+    2. Class Diagram
