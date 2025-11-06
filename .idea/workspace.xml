@@ -39,18 +39,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/236_Building_a_Secure_Banking_Application_Implementing_Transaction_Handling",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/238_Demystifying_Record_Constructors_Canonical_Custom_and_Compact_Forms",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/238_Demystifying_Record_Constructors_Canonical_Custom_and_Compact_Forms" />
       <recent name="$PROJECT_DIR$/236_Building_a_Secure_Banking_Application_Implementing_Transaction_Handling" />
       <recent name="$PROJECT_DIR$/235_Implementing_Unmodifiable_Collections_in_a_Banking_Application" />
       <recent name="$PROJECT_DIR$/233_Shallow_vs_Deep_Copies_Protecting_Data_Integrity_in_Java_Applications" />
       <recent name="$PROJECT_DIR$/231_Creating_Truly_Immutable_Java_Classes_Preventing_Subclass_Modification" />
-      <recent name="$PROJECT_DIR$/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/236_Building_a_Secure_Banking_Application_Implementing_Transaction_Handling" />

@@ -69,3 +69,9 @@
     1. Why are we going to talk about constructors again?
     2. The instance initializer block
     3. Static Initializers
+
+238. Demystifying Record Constructors: Canonical, Custom, and Compact Forms
+    0. Record Constructors (and javap)
+    1. Record Constructors come in three flavors
+    2. The compact constructor
+    3. The Java Class File Disassembler
