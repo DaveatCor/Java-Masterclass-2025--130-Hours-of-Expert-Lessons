@@ -78,3 +78,12 @@
 
 239. Mastering Enum Constructors and Static Initializers in Java
     0. Enum Constructors
+
+240. Building a Game Console Framework with Player Input
+    0. Game Console Setup, Part 1
+    1. Creating A Game Console
+    2. GameConsole
+    3. The GameAction record
+    4. The Player Interface
+    5. The Game Class
+    6. The Conceptual Game Console Application
