@@ -110,3 +110,7 @@
 
 246. Building a Complete Pirate Game: Loot, Combat, and Town Features in Java
     0. Final Section Challenge
+    1. The Final Section Challenge
+    2. Create a Sealed Combatant class
+    3. Create Loot and Feature enums
+    4. Create a Town Record
