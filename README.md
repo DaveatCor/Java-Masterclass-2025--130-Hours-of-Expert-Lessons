@@ -95,3 +95,6 @@
     0. Challenge: Initializers and Constructors, A Pirate Game
     1. The Initializer Challenge, Pirate Invasion Game
     2. Class Diagram
+
+242. Java Coding Challenge: Design a Pirate Adventure with Constructors & Initializer
+    0. Challenge: A Pirate Game continued
