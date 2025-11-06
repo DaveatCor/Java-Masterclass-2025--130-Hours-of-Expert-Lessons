@@ -31,3 +31,7 @@
 
 231. Creating Truly Immutable Java Classes: Preventing Subclass Modification
     0. Declaring immutable classes to produce immutable object, Part 2
+
+232. Implement Immutable BankAccount and BankCustomer Classes in Java
+    0. Challenge: Write our own immutable classes
+    1. Challenge: Write Immutable classes for a Bank Account and a Bank Customer
