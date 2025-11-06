@@ -87,3 +87,6 @@
     4. The Player Interface
     5. The Game Class
     6. The Conceptual Game Console Application
+
+241. Building a Generic Game Console: Implementing Game and Player Interactions
+    0. Game Consoler Setup, Part 2
