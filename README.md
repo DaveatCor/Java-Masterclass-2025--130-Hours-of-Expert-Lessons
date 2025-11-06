@@ -35,3 +35,12 @@
 232. Implement Immutable BankAccount and BankCustomer Classes in Java
     0. Challenge: Write our own immutable classes
     1. Challenge: Write Immutable classes for a Bank Account and a Bank Customer
+
+233. Shallow vs. Deep Copies: Protecting Data Integrity in Java Applications
+    0. Defensive Copies, Shallow and Deep Copies
+    1. Defensive Copies as Input
+    2. Defensive Copies as output
+    3. What's a copy? Shadow Copy vs Deep Copy
+    4. Shallow Copy
+    5. Deep Copy
+    6. Shallow Copy vs Deep Copy of a composite object

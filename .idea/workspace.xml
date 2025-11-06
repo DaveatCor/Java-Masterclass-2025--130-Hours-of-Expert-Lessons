@@ -39,25 +39,25 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/231_Creating_Truly_Immutable_Java_Classes_Preventing_Subclass_Modification",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/233_Shallow_vs_Deep_Copies_Protecting_Data_Integrity_in_Java_Applications",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/233_Shallow_vs_Deep_Copies_Protecting_Data_Integrity_in_Java_Applications" />
       <recent name="$PROJECT_DIR$/231_Creating_Truly_Immutable_Java_Classes_Preventing_Subclass_Modification" />
       <recent name="$PROJECT_DIR$/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques" />
       <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/225_Building_a_Complete_Store_Inventory_Management_System_(Part_2)" />
-      <recent name="$PROJECT_DIR$/224_Building_a_ Complete_Store_Inventory_Management_System_(Part_1)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/233_Shallow_vs_Deep_Copies_Protecting_Data_Integrity_in_Java_Applications" />
       <recent name="$PROJECT_DIR$/230_Designing_Immutable_Classes_Private_Final_Fields_Defensive_Copies_Part_1" />
       <recent name="$PROJECT_DIR$/229_Understanding_Side_Effects_of_Mutability_Defensive_Coding_Techniques" />
       <recent name="$PROJECT_DIR$/228_Final_Modifier_Static_Methods_Hiding_vs_Overriding_Final_Variables" />
       <recent name="$PROJECT_DIR$/223_Collection_Framework_Final_Challenge_Part_1" />
-      <recent name="$PROJECT_DIR$/222_EnumSet_and_EnumMap_Optimizing_Collections_for_Enum_Types_in_Java" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
