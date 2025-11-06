@@ -28,3 +28,6 @@
     0. Declaring immutable classes to produce immutable object, Part 1
     1. Immutable Object
     2. Strategies for Declaring a Class, to produce immutable objects
+
+231. Creating Truly Immutable Java Classes: Preventing Subclass Modification
+    0. Declaring immutable classes to produce immutable object, Part 2
