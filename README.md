@@ -49,3 +49,13 @@
     0. Immutable, Unmodifiable Collections and Views
     1. Unmodifiable Collections are NOT immutable collections
     2. Unmodifiable Collections vs. Unmodifiable Collection Views
+
+235. Implementing Unmodifiable Collections in a Banking Application
+    0. Challenge: Use unmodifiable collections
+    1. The Banking Account Application From the Immutable Class Challenge
+    2. Modify the Banking Account Application from the Immutable Class Challenge
+    3. Modify the BankAccount class
+    4. Modify the BankCustomer class
+    5. Implement a Bank
+    6. Create and use a Bank in the Main's main method
+    7. The Class Diagram (as I'll be coding it)
