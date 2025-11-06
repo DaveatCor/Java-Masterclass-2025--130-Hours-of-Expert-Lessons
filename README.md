@@ -114,3 +114,6 @@
     2. Create a Sealed Combatant class
     3. Create Loot and Feature enums
     4. Create a Town Record
+
+247. Final Java Game Enhancements: Implementing Town Features and Combat Interactions
+    0. Final Challenge (Pirates Continued, Part 2)
