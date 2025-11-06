@@ -63,3 +63,9 @@
 236. Building a Secure Banking Application: Implementing Transaction Handling
     0. Challenge, Continued: Using unmodifiable collections.
     1. The Class Diagram (as I'll be coding it)
+
+237. Java Constructors: No-args, Initializers, Final Fields, and Inheritance
+    0. Constructor review, final field initializations, Introduction to Initializers
+    1. Why are we going to talk about constructors again?
+    2. The instance initializer block
+    3. Static Initializers
