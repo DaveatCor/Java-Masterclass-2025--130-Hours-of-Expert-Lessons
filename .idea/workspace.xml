@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/254_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface/StreamsIntermediate/src/dev/lpa/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/255_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/StreamTerminal/src/dev/lpa/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/image_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -64,11 +59,11 @@
       <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements" />
       <recent name="$PROJECT_DIR$/251_Exploring_ava_Stream_Sources_Collections_Arrays_and_Infinite_Data_Streams" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/250_Deep_Dive_into_Java_Stream_Pipelines_Sources_Intermediate_and_Terminal_Ops" />
       <recent name="$PROJECT_DIR$/249_Practical_Java_Stream_Example_Manipulating_and_Transforming_Bingo_Ball_Data" />
-      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces" />
     </key>
   </component>
   <component name="RunManager">

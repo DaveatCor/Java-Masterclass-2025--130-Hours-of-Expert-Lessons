@@ -38,3 +38,10 @@
     0. Intermediate Operations, map, peek, sorted
     1. Intermediate Operations that operate on every element
     2. Primitive Streams
+
+255. Mastering Terminal Ops: Find Statistics, Match Elements
+    0. Terminal Operations for statistical information and matching
+    1. Terminal Operations
+    2. What is a reduction operation?
+    3. Aggregation Terminal Operations
+    4. Matching elements in a stream based on a condition
