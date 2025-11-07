@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/248_Understanding_Java_Streams_Core_Concepts_and_Key_Differences_from_Collections/248_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="350Ergu4kMH4X5BnhMNt9ECs9xC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "section17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/247_Final_Java_Game_Enhancements_Implementing_Town_Features_and_Combat_Interactions",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/247_Final_Java_Game_Enhancements_Implementing_Town_Features_and_Combat_Interactions" />
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa" />
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa/sealed" />
+      <recent name="$PROJECT_DIR$/246_Building_a_Complete_Pirate_Game_Loot_Combat_and_Town_Features_in_Java" />
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces" />
+      <recent name="$PROJECT_DIR$/242Java_Coding_Challenge_Designa_Pirate_Adventure_with_Constructors_&amp;_Initializer" />
+      <recent name="$PROJECT_DIR$/240_Building_a_Game_Console_Framework_with_Player_Input" />
+      <recent name="$PROJECT_DIR$/236_Building_a_Secure_Banking_Application_Implementing_Transaction_Handling" />
+      <recent name="$PROJECT_DIR$/235_Implementing_Unmodifiable_Collections_in_a_Banking_Application" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="" />
+      <created>1762238789049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762238789049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
