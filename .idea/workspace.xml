@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/255_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/StreamTerminal/src/dev/lpa/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/256_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/StreamingStudents/src/dev/lpa/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/StreamingStudents/src/dev/lpa/CourseEngageement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1/image_5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -59,11 +64,11 @@
       <recent name="$PROJECT_DIR$/245_Restricting_Class_Extension_in_Java_with_the_Sealed_Classes_and_Interfaces/GameConsole/src/dev/lpa" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1" />
       <recent name="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements" />
       <recent name="$PROJECT_DIR$/251_Exploring_ava_Stream_Sources_Collections_Arrays_and_Infinite_Data_Streams" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/250_Deep_Dive_into_Java_Stream_Pipelines_Sources_Intermediate_and_Terminal_Ops" />
-      <recent name="$PROJECT_DIR$/249_Practical_Java_Stream_Example_Manipulating_and_Transforming_Bingo_Ball_Data" />
     </key>
   </component>
   <component name="RunManager">

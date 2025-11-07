@@ -45,3 +45,12 @@
     2. What is a reduction operation?
     3. Aggregation Terminal Operations
     4. Matching elements in a stream based on a condition
+
+256. Building a Student Engagement System: Code Setup - Part 1
+    0. Code Setup, Part 1 (Student Engagement Statistics)
+    1. Code Setup
+    2. The Course
+    3. The Course Engagement Type
+    4. The Student Class's Attributes
+    5. The Student Class's Behavior
+    6. The Student Random Generation method (Supplier)
