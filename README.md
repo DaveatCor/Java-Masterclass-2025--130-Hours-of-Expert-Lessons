@@ -10,3 +10,12 @@
 249. Practical Java Stream Example: Manipulating and Transforming Bingo Ball Data
     0. A first look at a stream in action
     1. BINGO
+
+250. Deep Dive into Java Stream Pipelines: Sources, Intermediate, and Terminal Ops
+    0. The structure of the Stream Pipline
+    1. The Stream Pipline
+    2. The Pipeline starts with a Source
+    3. The Intermediate Operations
+    4. Streams are Lazy
+    5. Stream computations are optimized
+    6. We can't reuse a stream
