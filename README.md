@@ -27,3 +27,9 @@
 
 252. Challenge: Mastering Stream Sources and Data Concatenation in Java
     0. Stream Source Challenge
+
+253. Filtering and Transforming Data: distinct, filter, limit, skip, takeWhile, dropW
+    0. Intermediate Operations, dinstinct, filter, limit, skip, takeWhile, dropWhile
+    1. The Most Common Intermediate Operations
+    2. Intermediate Operations that effect the size of the Resulting Stream
+    3. Declarative Language of Stream Operations Resembles Query commands
