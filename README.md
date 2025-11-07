@@ -33,3 +33,8 @@
     1. The Most Common Intermediate Operations
     2. Intermediate Operations that effect the size of the Resulting Stream
     3. Declarative Language of Stream Operations Resembles Query commands
+
+254. Map, Peek and Sorted Operations, using Comparator interface
+    0. Intermediate Operations, map, peek, sorted
+    1. Intermediate Operations that operate on every element
+    2. Primitive Streams
