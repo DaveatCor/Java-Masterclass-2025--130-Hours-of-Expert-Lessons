@@ -6,3 +6,7 @@
     2. A Stream is different from a Collection
     3. The Lazy Stream
     4. Why use a Stream?
+
+249. Practical Java Stream Example: Manipulating and Transforming Bingo Ball Data
+    0. A first look at a stream in action
+    1. BINGO
