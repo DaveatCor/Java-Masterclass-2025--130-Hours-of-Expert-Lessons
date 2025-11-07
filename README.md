@@ -19,3 +19,8 @@
     4. Streams are Lazy
     5. Stream computations are optimized
     6. We can't reuse a stream
+
+251. Exploring Java Stream Sources: Collections, Arrays, and Infinite Data Streams
+    0. Stream Sources
+    1. Stream Types May Change As the Piplne Process Progress
+    2. Stream Sources
