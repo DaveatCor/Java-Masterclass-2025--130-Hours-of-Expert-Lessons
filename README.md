@@ -62,3 +62,6 @@
     0. Challenge: Terminal Operations
     1. Terminal Operations Challenge
     2. The Terminal Operations Challenge
+
+259. Enhancing Data Analysis: Advanced Terminal Operation Challenge Solution
+    0. Challenge, part 2: Terminal Operations
