@@ -12,3 +12,10 @@
     1. Use Math.random oor Random's methods?
     2. Common Usage of Math.random, geeting a range of numbers
     3. What's a seed?
+
+271. Java Dice Rolling Game: Implementing Randomization and User Input Challenge
+    0. Randomization Challenge (Rolling Dice)
+    1. A Dice Rolling game
+    2. Implementing the game
+    3. Sample Output
+    4. Bonus
