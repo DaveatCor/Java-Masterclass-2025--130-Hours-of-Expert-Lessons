@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/263_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/CourseEngageement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/MainChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/MainCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/MainOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values/StreamingStudents/src/dev/lpa/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/264_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/CourseEngageement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/MainChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/MainCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/MainOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/MainTerminalOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java/StreamingStudents/src/dev/lpa/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -55,18 +56,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java" />
       <recent name="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values" />
       <recent name="$PROJECT_DIR$/262_Terminal_Operations_Part_2_Advanced_Data_Aggregation_Challenge" />
       <recent name="$PROJECT_DIR$/261_Advanced_Stream_Processing_Practical_Applications_of_Collect_and_Reduce" />
       <recent name="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations" />
-      <recent name="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />

@@ -85,3 +85,6 @@
     2. No Result is valid vs. No Result is a problem.
     3. Creating an instance of Optional
     4. The downside of Optional
+264. Mastering Stream Terminal Operations Find, Min, Max, Average, and Reduce in Java
+    0. More Terminal Operations
+    1. The Terminal Operations that return Optional
