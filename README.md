@@ -70,3 +70,6 @@
     0. Terminal Operations: Processing & Transforming Streams.
     1. Additional Terminal (Reduction) Operations
     2. Revised View of Transformative Operations
+
+261. Advanced Stream Processing: Practical Applications of Collect and Reduce
+    0. Using Stream's Collect & reduce terminal operations
