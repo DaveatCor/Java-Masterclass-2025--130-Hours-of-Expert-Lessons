@@ -96,3 +96,7 @@
 266. Transforming Data Structures: Using flatMap to Stream Map Elements in Java
     0. Maps to Streams (using flatMap)
     1. The flatMap operation
+
+267. Comprehensive Streams Challenge: Applying Advanced Techniques in Java
+    0. Stream Challenge
+    1. Streams Section Challenge
