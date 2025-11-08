@@ -56,18 +56,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/265_Challenge_Advanced_Stream_Operations_and_Data_Analysis_on_Student_Engagement",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/266_Transforming_Data_Structures_Using_flatMap_to_Stream_Map_Elements_in_Java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/266_Transforming_Data_Structures_Using_flatMap_to_Stream_Map_Elements_in_Java" />
       <recent name="$PROJECT_DIR$/265_Challenge_Advanced_Stream_Operations_and_Data_Analysis_on_Student_Engagement" />
       <recent name="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java" />
       <recent name="$PROJECT_DIR$/263_Java_Optionals_Preventing_NullPointerExceptions_and_Handling_Missing_Values" />
       <recent name="$PROJECT_DIR$/262_Terminal_Operations_Part_2_Advanced_Data_Aggregation_Challenge" />
-      <recent name="$PROJECT_DIR$/261_Advanced_Stream_Processing_Practical_Applications_of_Collect_and_Reduce" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />

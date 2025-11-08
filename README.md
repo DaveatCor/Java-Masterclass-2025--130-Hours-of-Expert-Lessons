@@ -92,3 +92,7 @@
 265. Challenge: Advanced Stream Operations and Data Analysis on Student Engagement
     0. Streams to Maps
     1. static import
+
+266. Transforming Data Structures: Using flatMap to Stream Map Elements in Java
+    0. Maps to Streams (using flatMap)
+    1. The flatMap operation
