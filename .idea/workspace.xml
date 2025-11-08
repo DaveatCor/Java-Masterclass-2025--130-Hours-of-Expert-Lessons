@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/MainGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/dice/DiceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/dice/DicePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/dice/ScoredItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/game/GameAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/game/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums/RandomChallenge/src/dev/lpa/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/273_Mastering_BigDecimal_for_Financial_Applications_Precision_and_Scale_in_Java/273_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/273_Mastering_BigDecimal_for_Financial_Applications_Precision_and_Scale_in_Java/BigDecimal/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>

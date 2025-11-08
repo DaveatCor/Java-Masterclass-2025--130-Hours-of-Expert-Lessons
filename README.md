@@ -24,3 +24,10 @@
     0. Bonus Challenge (DiceGame with Scoring)
     1. Implement DiceGame, DicePlayer and run game with GameConsole
     2. Implement DiceGame and run game with GameConsole
+
+273. Mastering BigDecimal for Financial Applications: Precision and Scale in Java
+    0. Introduction to BigDecimal
+    1. Some floating point number basics
+    2. Fractional Numbers may not be able to be accurately represented by floating point numbers
+    3. BigDecimal
+    4. BigDecimal Examples
