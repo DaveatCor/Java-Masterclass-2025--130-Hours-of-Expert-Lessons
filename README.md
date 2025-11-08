@@ -78,3 +78,10 @@
 262. Terminal Operations Part 2 - Advanced Data Aggregation Challenge
     0. Challenge: Terminal Operations, Part 2
     1. Challenge, Use terminal operations to select specific students
+
+263. Java Optionals: Preventing NullPointerExceptions and Handling Missing Values
+    0. What's Optional?
+    1. What's the Optional Type?
+    2. No Result is valid vs. No Result is a problem.
+    3. Creating an instance of Optional
+    4. The downside of Optional
