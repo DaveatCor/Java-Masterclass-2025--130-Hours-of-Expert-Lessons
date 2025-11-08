@@ -54,3 +54,6 @@
     4. The Student Class's Attributes
     5. The Student Class's Behavior
     6. The Student Random Generation method (Supplier)
+
+257. Student Class Construction: Code Setup - Part 2 for Stream Processing
+    0. Code Setup, Part 2 (Student Engagement Statistics) 
