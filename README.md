@@ -65,3 +65,8 @@
 
 259. Enhancing Data Analysis: Advanced Terminal Operation Challenge Solution
     0. Challenge, part 2: Terminal Operations
+
+260. Collecting Data in Java Streams, the Collect and Reduce operations
+    0. Terminal Operations: Processing & Transforming Streams.
+    1. Additional Terminal (Reduction) Operations
+    2. Revised View of Transformative Operations

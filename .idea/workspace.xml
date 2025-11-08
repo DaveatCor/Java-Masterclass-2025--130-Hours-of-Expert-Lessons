@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/StreamingStudents.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/src/dev/lpa/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/src/dev/lpa/CourseEngageement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/src/dev/lpa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution/StreamingStudents/src/dev/lpa/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/260_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/src/dev/lpa/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/src/dev/lpa/CourseEngageement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations/StreamingStudents/src/dev/lpa/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,18 +52,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/260_Collecting_Data_in_Java_Streams_the_Collect_and_Reduce_operations" />
       <recent name="$PROJECT_DIR$/259_Enhancing_Data_Analysis_Advanced_Terminal_Operation_Challenge_Solution" />
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
       <recent name="$PROJECT_DIR$/257_Student_Class_Construction_Code_Setup_Part_2_for_Stream_Processing" />
       <recent name="$PROJECT_DIR$/254_Map_Peek_and_Sorted_Operations_using_Comparator_interface" />
-      <recent name="$PROJECT_DIR$/251_Exploring_ava_Stream_Sources_Collections_Arrays_and_Infinite_Data_Streams" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
