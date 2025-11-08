@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="350Ergu4kMH4X5BnhMNt9ECs9xC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "section18",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/270_Comprehensive_Guide_to_Random_Number_Generation_Math_random_and_Random" />
+      <recent name="$PROJECT_DIR$/267_Comprehensive_Streams_Challenge_Applying_Advanced_Techniques_in_Java" />
+      <recent name="$PROJECT_DIR$/266_Transforming_Data_Structures_Using_flatMap_to_Stream_Map_Elements_in_Java" />
+      <recent name="$PROJECT_DIR$/265_Challenge_Advanced_Stream_Operations_and_Data_Analysis_on_Student_Engagement" />
+      <recent name="$PROJECT_DIR$/264_Mastering_Stream_Terminal_Operations_Find_Min_Max_Average_and_Reduce_in_Java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
+      <recent name="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1" />
+      <recent name="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements" />
+      <recent name="$PROJECT_DIR$/251_Exploring_ava_Stream_Sources_Collections_Arrays_and_Infinite_Data_Streams" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="" />
+      <created>1762238789049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762238789049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
