@@ -19,3 +19,8 @@
     2. Implementing the game
     3. Sample Output
     4. Bonus
+
+272. Advanced Dice Game: Implementing Scoring and Game Logic with Java Enums
+    0. Bonus Challenge (DiceGame with Scoring)
+    1. Implement DiceGame, DicePlayer and run game with GameConsole
+    2. Implement DiceGame and run game with GameConsole
