@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/273_Mastering_BigDecimal_for_Financial_Applications_Precision_and_Scale_in_Java/273_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/273_Mastering_BigDecimal_for_Financial_Applications_Precision_and_Scale_in_Java/BigDecimal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/274_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/src/dev/lpa/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -44,18 +49,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/270_Comprehensive_Guide_to_Random_Number_Generation_Math_random_and_Random" />
       <recent name="$PROJECT_DIR$/267_Comprehensive_Streams_Challenge_Applying_Advanced_Techniques_in_Java" />
       <recent name="$PROJECT_DIR$/266_Transforming_Data_Structures_Using_flatMap_to_Stream_Map_Elements_in_Java" />
-      <recent name="$PROJECT_DIR$/265_Challenge_Advanced_Stream_Operations_and_Data_Analysis_on_Student_Engagement" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
