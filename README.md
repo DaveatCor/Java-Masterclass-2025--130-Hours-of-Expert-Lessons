@@ -56,4 +56,9 @@
     6. The Student Random Generation method (Supplier)
 
 257. Student Class Construction: Code Setup - Part 2 for Stream Processing
-    0. Code Setup, Part 2 (Student Engagement Statistics) 
+    0. Code Setup, Part 2 (Student Engagement Statistics)
+
+258. Terminal Operations Challenge Part 1 - Student Data Analysis
+    0. Challenge: Terminal Operations
+    1. Terminal Operations Challenge
+    2. The Terminal Operations Challenge
