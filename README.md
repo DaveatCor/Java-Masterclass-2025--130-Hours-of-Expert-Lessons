@@ -73,3 +73,8 @@
 
 261. Advanced Stream Processing: Practical Applications of Collect and Reduce
     0. Using Stream's Collect & reduce terminal operations
+    1. The Collect method
+
+262. Terminal Operations Part 2 - Advanced Data Aggregation Challenge
+    0. Challenge: Terminal Operations, Part 2
+    1. Challenge, Use terminal operations to select specific students
