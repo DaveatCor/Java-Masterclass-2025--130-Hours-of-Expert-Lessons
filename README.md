@@ -88,3 +88,7 @@
 264. Mastering Stream Terminal Operations Find, Min, Max, Average, and Reduce in Java
     0. More Terminal Operations
     1. The Terminal Operations that return Optional
+
+265. Challenge: Advanced Stream Operations and Data Analysis on Student Engagement
+    0. Streams to Maps
+    1. static import
