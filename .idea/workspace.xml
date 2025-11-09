@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)/283_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)/image_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -62,11 +58,11 @@
       <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)" />
       <recent name="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage" />
       <recent name="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API" />
       <recent name="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
-      <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
     </key>
   </component>
   <component name="RunManager">

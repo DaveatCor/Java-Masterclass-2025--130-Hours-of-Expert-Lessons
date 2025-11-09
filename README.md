@@ -87,6 +87,10 @@
 282. Applying Localization in Java: Formatting Dates, Numbers, and Currencies
     0. Localization, Continued
 
+283. DateTime & Localization: Cross-Timezone Meeting Scheduler Challenge (10 Days)
+    0. DateTime and Localization Challenge
+    1. Scheduling a meeting for people in different areas of the world
+
 ## Recheck
 - 279
     
