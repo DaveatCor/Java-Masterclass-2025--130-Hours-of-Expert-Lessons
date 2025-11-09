@@ -72,6 +72,18 @@
 279. Exploring Java Time Zones: ZoneId, Zone Offset, and Daylight Savings Time
     0. ZoneId (Time zones)
 
+280. Mastering Java Time: Instant, ZonedDateTime, Duration, Period, ChronoUnit
+    0. Instant, ZonedDateTime, Duration, Period and ChronoUnit.between
+    1. Instant
+
+281. Introduction to Java Localization and the Locale Class: Concepts and Usage
+    0. Localization, Introduction to Locale
+    1. Localization
+    2. Locales
+    3. Locale
+    4. Java's localization support
+    5. Internationalization
+
 ## Recheck
 - 279
     
