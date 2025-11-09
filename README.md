@@ -88,8 +88,16 @@
     0. Localization, Continued
 
 283. DateTime & Localization: Cross-Timezone Meeting Scheduler Challenge (10 Days)
-    0. DateTime and Localization Challenge
+    0. [DateTime and Localization Challenge]()
     1. Scheduling a meeting for people in different areas of the world
+
+284. Java Internationalization: Using ResourceBundle for Multi-Language Support
+    0. Internationalization (ResourceBundle)
+    1. The ResourceBundle class
+    2. ResourceBundle data in a .properties file
+    3. ResourceBUndle data
+    4. Java's matching process to locate the best bundle
+    5. ResourceBundle - alternative to .properties files
 
 ## Recheck
 - 279

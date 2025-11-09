@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)/283_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)/image_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,25 +39,25 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/285_ResourceBundle_in_Java_Creating_Multi_Language_Applications_(Part_2)" />
       <recent name="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies" />
       <recent name="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit" />
       <recent name="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
-      <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/284_Java_Internationalization_Using_ResourceBundle_for_Multi_Language_Support" />
       <recent name="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)" />
       <recent name="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage" />
       <recent name="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API" />
       <recent name="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison" />
-      <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
     </key>
   </component>
   <component name="RunManager">
