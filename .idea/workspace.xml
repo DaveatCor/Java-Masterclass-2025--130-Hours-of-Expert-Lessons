@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API/278_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API/image_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -62,11 +61,11 @@
       <recent name="$PROJECT_DIR$/270_Comprehensive_Guide_to_Random_Number_Generation_Math_random_and_Random" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API" />
       <recent name="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/271_Java_Dice_Rolling_Game_Implementing_Randomization_and_User_Input_Challenge" />
-      <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
     </key>
   </component>
   <component name="RunManager">

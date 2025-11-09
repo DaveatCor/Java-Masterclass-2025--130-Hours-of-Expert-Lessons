@@ -55,4 +55,17 @@
 
 277. Mastering LocalTime and LocalDateTime in Java: A Comprehensive Guide
     0. LocalTime, LocalDateTime
+
+278. Understanding Instance, Period, Duration, and Time Zones in Java's Time API
+    0. Overview: Instance, Period, Duration and Time Zones
+    1. A Date-Based Timeline
+    2. An Hourly Timeline
+    3. Instant
+    4. What's the significance of the EPOCH Time?
+    5. Duration and Period
+    6. Greenwich Mean Time
+    7. Time Zone
+    8. Before JDK 8 and the introduction of the java.time package
+    9. System.currentTimeMillis
+    10. System.nanaTime
     
