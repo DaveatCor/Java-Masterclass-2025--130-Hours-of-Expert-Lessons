@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/276_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide/DateTimeProject/src/dev/lpa/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -48,18 +48,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/270_Comprehensive_Guide_to_Random_Number_Generation_Math_random_and_Random" />
-      <recent name="$PROJECT_DIR$/267_Comprehensive_Streams_Challenge_Applying_Advanced_Techniques_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison" />
