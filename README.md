@@ -99,6 +99,9 @@
     4. Java's matching process to locate the best bundle
     5. ResourceBundle - alternative to .properties files
 
+285. ResourceBundle in Java: Creating Multi-Language Applications (Part 2)
+    0. Internationalization (ResourceBundle) Part 2
+
 ## Recheck
 - 279
     
