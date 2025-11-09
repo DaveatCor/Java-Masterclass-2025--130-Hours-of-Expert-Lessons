@@ -11,3 +11,9 @@
     3. Ways to use Regalar Expressions in Java
     4. String's methods which use regular expressions
 
+288. Decoding Regular Expressions: Literals, Character Classes, Quantifiers, Anchors
+    0. The Parts of a Regular Expression
+    1. Character classes defined with square brackets
+    2. Quantifiers
+    3. Boundary Matchers
+
