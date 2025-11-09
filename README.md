@@ -4,3 +4,10 @@
     0. Introduction
     1. Regular Expression Introduction
 
+287. Demystifying Regular Expressions: Understanding Syntax, Usage, and Benefits
+    0. What's a Regular Expression?
+    1. What's a Regular Expression?
+    2. Regular Expression
+    3. Ways to use Regalar Expressions in Java
+    4. String's methods which use regular expressions
+
