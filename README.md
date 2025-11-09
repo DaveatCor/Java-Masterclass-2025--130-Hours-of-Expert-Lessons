@@ -84,6 +84,9 @@
     4. Java's localization support
     5. Internationalization
 
+282. Applying Localization in Java: Formatting Dates, Numbers, and Currencies
+    0. Localization, Continued
+
 ## Recheck
 - 279
     

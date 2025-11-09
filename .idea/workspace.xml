@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/281_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/LocaleProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/LocaleProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/LocaleProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/LocaleProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies/LocaleProject/src/dev/lpa/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit/280_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit/280_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit/MoreTime/src/dev/lpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit/MoreTime/src/dev/lpa/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,18 +48,18 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies" />
       <recent name="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit" />
       <recent name="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
-      <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage" />
