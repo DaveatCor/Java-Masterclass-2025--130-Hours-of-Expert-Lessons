@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/274_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java/BigDecimal/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/275_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -49,25 +53,25 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "section18",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/274_Advanced_BigDecimal_Operations_Controlling_Rounding_and_Precision_in_Java" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/270_Comprehensive_Guide_to_Random_Number_Generation_Math_random_and_Random" />
       <recent name="$PROJECT_DIR$/267_Comprehensive_Streams_Challenge_Applying_Advanced_Techniques_in_Java" />
-      <recent name="$PROJECT_DIR$/266_Transforming_Data_Structures_Using_flatMap_to_Stream_Map_Elements_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/271_Java_Dice_Rolling_Game_Implementing_Randomization_and_User_Input_Challenge" />
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
       <recent name="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1" />
-      <recent name="$PROJECT_DIR$/255_Mastering_Terminal_Ops_Find_Statistics_Match_Elements" />
     </key>
   </component>
   <component name="RunManager">
