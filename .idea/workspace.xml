@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/275_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)/image_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/276_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/DateTimeProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison/image_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -67,11 +62,11 @@
       <recent name="$PROJECT_DIR$/267_Comprehensive_Streams_Challenge_Applying_Advanced_Techniques_in_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/276_Working_with_LocalDate_in_Java_Creation_Manipulation_and_Comparison" />
       <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
       <recent name="$PROJECT_DIR$/272_Advanced_Dice_Game_Implementing_Scoring_and_Game_Logic_with_Java_Enums" />
       <recent name="$PROJECT_DIR$/271_Java_Dice_Rolling_Game_Implementing_Randomization_and_User_Input_Challenge" />
       <recent name="$PROJECT_DIR$/258_Terminal_Operations_Challenge_Part_1_Student_Data_Analysis" />
-      <recent name="$PROJECT_DIR$/256_Building_a_Student_Engagement_System_Code_Setup_Part_1" />
     </key>
   </component>
   <component name="RunManager">
