@@ -19,3 +19,7 @@
 
 289. Using Regular Expressions with String and Scanner: split(), replaceAll(), etc.
     0. Methods that use Regular Expressions
+
+290. Regular Expression Challenges: Applying Concepts through Practical Exercises
+    0. Mini Challenges - Regular Expressions
+    1. Mini Challenges 1, 2, 3

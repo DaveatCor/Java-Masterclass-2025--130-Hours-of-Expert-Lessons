@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/RegularExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289_Using_Regular_Expressions_with_String_and_Scanner_split()_replaceAll()_etc./RegularExpressions/src/dev/lpa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/290_Regular_Expression_Challenges_Applying_Concepts_through_Practical_Exercises/290_README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/288_Decoding_Regular_Expressions_Literals_Character_Classes_Quantifiers_Anchors/RegularExpressions/src/dev/lpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/288_Decoding_Regular_Expressions_Literals_Character_Classes_Quantifiers_Anchors/RegularExpressions/src/dev/lpa/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
