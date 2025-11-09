@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/286_Introduction_to_Regular_Expressions_Practical_Uses_and_Applications_in_Java/286_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="350Ergu4kMH4X5BnhMNt9ECs9xC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "section19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/daveat.ctg/study/Java-Masterclass-2025--130-Hours-of-Expert-Lessons",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/285_ResourceBundle_in_Java_Creating_Multi_Language_Applications_(Part_2)" />
+      <recent name="$PROJECT_DIR$/282_Applying_Localization_in_Java_Formatting_Dates_Numbers_and_Currencies" />
+      <recent name="$PROJECT_DIR$/280_Mastering_Java_Time_Instant_ZonedDateTime_Duration_Period_ChronoUnit" />
+      <recent name="$PROJECT_DIR$/277_Mastering_LocalTime_and_LocalDateTime_in_Java_A_Comprehensive_Guide" />
+      <recent name="$PROJECT_DIR$/275_Comprehensive_Introduction_to_Java_Date_and_Time_API_(java_time_package)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/284_Java_Internationalization_Using_ResourceBundle_for_Multi_Language_Support" />
+      <recent name="$PROJECT_DIR$/283_DateTime_&amp;_Localization_Cross_Timezone_Meeting_Scheduler_Challenge_(10_Days)" />
+      <recent name="$PROJECT_DIR$/281_Introduction_to_Java_Localization_and_the_Locale_Class_Concepts_and_Usage" />
+      <recent name="$PROJECT_DIR$/278_Understanding_Instance_Period_Duration_and_Time_Zones_in_Javas_Time_API" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="201_Advanced_java_util_Collections_Shuffle_Reverse_Sort_indexOfSubList" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="" />
+      <created>1762238789049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762238789049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
