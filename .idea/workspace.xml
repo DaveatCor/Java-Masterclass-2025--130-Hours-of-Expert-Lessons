@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974b424f-2858-4c92-94e7-d5a1b7a285b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/290_Regular_Expression_Challenges_Applying_Concepts_through_Practical_Exercises/290_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/291_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/PatternMatching/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/PatternMatching/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/PatternMatching/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/PatternMatching/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/291_Advanced_Regular_Expressions_with_Pattern_and_Matcher_Compilation_and_Matching/PatternMatching/PatternMatching.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>

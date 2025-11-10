@@ -23,3 +23,11 @@
 290. Regular Expression Challenges: Applying Concepts through Practical Exercises
     0. Mini Challenges - Regular Expressions
     1. Mini Challenges 1, 2, 3
+
+291. Advanced Regular Expressions with Pattern and Matcher: Compilation and Matching
+    0. Using Pattern and Matcher
+    1. What does it mean to Compile a Regular Expression?
+    2. Adventages of the Pattern Instance
+    3. Matcher class advantages
+    4. Greedy and Reuctant Regular Expressions
+
